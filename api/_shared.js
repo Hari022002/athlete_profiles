@@ -4077,10 +4077,16 @@ const FEATURED_SLUGS = [
   'sara-conti', 'julien-alfred', 'ariarne-titmus'
 ];
 
-let allAthletes = [];
+// Initialize allAthletes synchronously with verified photo champions first
+let allAthletes = EMBEDDED_CACHE.filter(p => p.slug && p.image).map(p => ({
+  slug: p.slug,
+  name: p.name,
+  url: p.url || ('https://www.olympics.com/en/athletes/' + p.slug)
+}));
+let fullDataMerged = false;
 
 async function ensureAthletesLoaded() {
-  if (allAthletes.length > 0) return allAthletes;
+  if (fullDataMerged) return allAthletes;
   try {
     const res = await fetch(GITHUB_ATHLETE_URL);
     if (res.ok) {
@@ -4108,6 +4114,7 @@ async function ensureAthletesLoaded() {
       }
 
       allAthletes = [...withPhotos, ...others];
+      fullDataMerged = true;
     }
   } catch (err) {
     console.error('Failed loading athletes from GitHub:', err.message);
