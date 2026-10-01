@@ -17,12 +17,13 @@ async function loadAthleteData() {
   const localFiles = ['athlete.json', 'athletes_sitemap_part_1.json'];
   let loaded = false;
 
+  let rawAthletes = [];
   for (const file of localFiles) {
     const filePath = path.join(__dirname, file);
     if (fs.existsSync(filePath)) {
       try {
-        allAthletes = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-        console.log(`Loaded ${allAthletes.length} athletes from local ${file}`);
+        rawAthletes = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        console.log(`Loaded ${rawAthletes.length} athletes from local ${file}`);
         loaded = true;
         break;
       } catch (e) {}
@@ -34,8 +35,8 @@ async function loadAthleteData() {
     try {
       const res = await fetch(GITHUB_ATHLETE_URL);
       if (res.ok) {
-        allAthletes = await res.json();
-        console.log(`Successfully loaded ${allAthletes.length} athletes directly from GitHub!`);
+        rawAthletes = await res.json();
+        console.log(`Successfully loaded ${rawAthletes.length} athletes directly from GitHub!`);
       }
     } catch (err) {
       console.error('Failed to fetch from GitHub:', err.message);
@@ -43,14 +44,40 @@ async function loadAthleteData() {
   }
 
   // Load disk image cache if present
+  let diskCache = [];
   if (fs.existsSync(CACHE_FILE)) {
     try {
-      const diskCache = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8'));
+      diskCache = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8'));
       for (const item of diskCache) {
         if (item.slug) athleteCache.set(item.slug, item);
       }
     } catch (e) {}
   }
+
+  // Prioritize photo-rich athletes first
+  const withPhotos = [];
+  const others = [];
+  const seen = new Set();
+
+  for (const p of diskCache) {
+    if (p.slug && p.image && !seen.has(p.slug)) {
+      seen.add(p.slug);
+      withPhotos.push({
+        slug: p.slug,
+        name: p.name,
+        url: p.url || `https://www.olympics.com/en/athletes/${p.slug}`
+      });
+    }
+  }
+
+  for (const ath of rawAthletes) {
+    if (!seen.has(ath.slug)) {
+      seen.add(ath.slug);
+      others.push(ath);
+    }
+  }
+
+  allAthletes = [...withPhotos, ...others];
 }
 
 // Save cache to disk periodically

@@ -34,7 +34,36 @@ async function ensureAthletesLoaded() {
   try {
     const res = await fetch(GITHUB_ATHLETE_URL);
     if (res.ok) {
-      allAthletes = await res.json();
+      const raw = await res.json();
+      
+      const withPhotos = [];
+      const others = [];
+      const seen = new Set();
+
+      // 1. Add all 347+ photo-rich cached athletes to the front of the list
+      try {
+        const preloadedCache = require('./cache_data');
+        for (const p of preloadedCache) {
+          if (p.slug && p.image && !seen.has(p.slug)) {
+            seen.add(p.slug);
+            withPhotos.push({
+              slug: p.slug,
+              name: p.name,
+              url: p.url || `https://www.olympics.com/en/athletes/${p.slug}`
+            });
+          }
+        }
+      } catch (e) {}
+
+      // 2. Add the remaining athletes from the 40,000 dataset
+      for (const ath of raw) {
+        if (!seen.has(ath.slug)) {
+          seen.add(ath.slug);
+          others.push(ath);
+        }
+      }
+
+      allAthletes = [...withPhotos, ...others];
     }
   } catch (err) {
     console.error('Failed loading athletes from GitHub:', err.message);
