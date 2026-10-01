@@ -4,19 +4,23 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Environment & Sensitive Config
-.env
-.env.local
-.env.*.local
+# Remote data fetched from GitHub (athlete_data repo)
+athlete.json
+athletes_sitemap_part_*.json
+default_athletes.json
+athletes_album_data.json
+athlete_images_cache.json
 
-# Temporary / Test Output Files
+# Temporary / Search / Test Output Files
 search_*.json
 test_*.js
 verify_*.js
 *.log
 
-# Duplicate large sitemap dump (keep athlete.json instead)
-athletes_sitemap_part_*.json
+# Environment & Sensitive Config
+.env
+.env.local
+.env.*.local
 
 # OS Generated Files
 .DS_Store

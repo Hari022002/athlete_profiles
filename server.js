@@ -6,49 +6,52 @@ const url = require('url');
 const PORT = process.env.PORT || 3000;
 const PUBLIC_DIR = path.join(__dirname, 'public');
 const CACHE_FILE = path.join(__dirname, 'athlete_images_cache.json');
+const GITHUB_ATHLETE_URL = 'https://raw.githubusercontent.com/Hari022002/athlete_data/main/athlete.json';
 
-// Load full 40,000 athletes from athlete.json or athletes_sitemap_part_1.json
+// In-memory 40,000 athlete store
 let allAthletes = [];
-const dataFiles = ['athlete.json', 'athletes_sitemap_part_1.json'];
-for (const file of dataFiles) {
-  const filePath = path.join(__dirname, file);
-  if (fs.existsSync(filePath)) {
-    try {
-      allAthletes = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      console.log(`Loaded ${allAthletes.length} total athletes from ${file}`);
-      break;
-    } catch (e) {
-      console.warn(`Error reading ${file}:`, e.message);
-    }
-  }
-}
-
-// Persistent disk cache for resolved athlete profiles
 const athleteCache = new Map();
 
-// 1. Load from athlete_images_cache.json
-if (fs.existsSync(CACHE_FILE)) {
-  try {
-    const diskCache = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8'));
-    for (const item of diskCache) {
-      if (item.slug) athleteCache.set(item.slug, item);
-    }
-    console.log(`Loaded ${athleteCache.size} profiles from disk cache.`);
-  } catch (e) {}
-}
+// 1. Load athletes: Try local file first, fallback to GitHub Raw URL automatically
+async function loadAthleteData() {
+  const localFiles = ['athlete.json', 'athletes_sitemap_part_1.json'];
+  let loaded = false;
 
-// 2. Load from athletes_album_data.json
-try {
-  const albumFile = path.join(__dirname, 'athletes_album_data.json');
-  if (fs.existsSync(albumFile)) {
-    const cachedList = JSON.parse(fs.readFileSync(albumFile, 'utf8'));
-    for (const item of cachedList) {
-      if (item.slug && item.image) {
-        athleteCache.set(item.slug, item);
-      }
+  for (const file of localFiles) {
+    const filePath = path.join(__dirname, file);
+    if (fs.existsSync(filePath)) {
+      try {
+        allAthletes = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        console.log(`Loaded ${allAthletes.length} athletes from local ${file}`);
+        loaded = true;
+        break;
+      } catch (e) {}
     }
   }
-} catch (e) {}
+
+  if (!loaded) {
+    console.log(`Fetching 40,000 athletes directly from GitHub: ${GITHUB_ATHLETE_URL}...`);
+    try {
+      const res = await fetch(GITHUB_ATHLETE_URL);
+      if (res.ok) {
+        allAthletes = await res.json();
+        console.log(`Successfully loaded ${allAthletes.length} athletes directly from GitHub!`);
+      }
+    } catch (err) {
+      console.error('Failed to fetch from GitHub:', err.message);
+    }
+  }
+
+  // Load disk image cache if present
+  if (fs.existsSync(CACHE_FILE)) {
+    try {
+      const diskCache = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8'));
+      for (const item of diskCache) {
+        if (item.slug) athleteCache.set(item.slug, item);
+      }
+    } catch (e) {}
+  }
+}
 
 // Save cache to disk periodically
 let saveTimeout = null;
@@ -58,9 +61,7 @@ function persistCache() {
     try {
       const array = Array.from(athleteCache.values());
       fs.writeFileSync(CACHE_FILE, JSON.stringify(array), 'utf8');
-    } catch (e) {
-      console.warn('Error saving cache to disk:', e.message);
-    }
+    } catch (e) {}
   }, 1000);
 }
 
@@ -112,9 +113,7 @@ async function resolveAthleteDetails(slug, name) {
       persistCache();
       return record;
     }
-  } catch (err) {
-    // Network or timeout error
-  }
+  } catch (err) {}
 
   const fallback = {
     slug,
@@ -200,7 +199,7 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
-  // API 1: Paginated 40,000 Athletes List with Instant Image Resolution
+  // API 1: Paginated 40,000 Athletes List
   if (pathname === '/api/athletes') {
     const q = (parsedUrl.query.q || '').trim().toLowerCase();
     const page = Math.max(parseInt(parsedUrl.query.page, 10) || 1, 1);
@@ -218,7 +217,6 @@ const server = http.createServer(async (req, res) => {
     const start = (page - 1) * limit;
     const rawItems = filtered.slice(start, start + limit);
 
-    // Resolve images in parallel for the requested page items
     const items = await Promise.all(
       rawItems.map(async (item) => {
         let details = athleteCache.get(item.slug);
@@ -309,6 +307,8 @@ const server = http.createServer(async (req, res) => {
   });
 });
 
-server.listen(PORT, () => {
-  console.log(`Olympics Athlete Showcase running at http://localhost:${PORT}`);
+loadAthleteData().then(() => {
+  server.listen(PORT, () => {
+    console.log(`Olympics Athlete Showcase running at http://localhost:${PORT}`);
+  });
 });
