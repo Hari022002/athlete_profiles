@@ -73,7 +73,10 @@ async function ensureAthletesLoaded() {
 
 async function resolveAthleteDetails(slug, name) {
   if (athleteCache.has(slug)) {
-    return athleteCache.get(slug);
+    const cached = athleteCache.get(slug);
+    if (cached && cached.image) {
+      return cached;
+    }
   }
 
   const cleanName = name || slug.replace(/-/g, ' ').replace(/\\b\\w/g, c => c.toUpperCase());
@@ -81,7 +84,7 @@ async function resolveAthleteDetails(slug, name) {
 
   try {
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 2000);
+    const timeoutId = setTimeout(() => controller.abort(), 2500);
 
     const res = await fetch(profileUrl, {
       headers: {
@@ -95,26 +98,56 @@ async function resolveAthleteDetails(slug, name) {
 
     if (res.ok) {
       const html = await res.text();
-      const ogImage = html.match(/<meta property="og:image" content="([^"]+)"/)?.[1] || null;
-      const ogTitle = html.match(/<meta property="og:title" content="([^"]+)"/)?.[1] || cleanName;
-      const ogDesc = html.match(/<meta property="og:description" content="([^"]+)"/)?.[1] || '';
-
-      let highRes = ogImage;
-      if (ogImage && ogImage.includes('/primary/')) {
-        const id = ogImage.split('/primary/')[1];
-        highRes = 'https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/' + id;
+      let athlete = null;
+      const nextMatch = html.match(/<script id="__NEXT_DATA__" type="application\\/json">([\\s\\S]*?)<\\/script>/i) ||
+                        html.match(/<script[^>]*>([\\s\\S]*?"displayName":[\\s\\S]*?)<\\/script>/i);
+      if (nextMatch) {
+        try {
+          const parsed = JSON.parse(nextMatch[1]);
+          athlete = parsed.props?.pageProps?.athlete || parsed.props?.pageProps?.initialProps?.content?.athlete;
+        } catch (e) {}
       }
 
-      const titleClean = ogTitle.split('|')[0].split('Biography')[0].split('Records')[0].trim() || cleanName;
+      const ogImage = html.match(/property="og:image"\\s+content="([^"]+)"/i)?.[1] ||
+                      html.match(/content="([^"]+)"\\s+property="og:image"/i)?.[1] || null;
+      const ogTitle = html.match(/property="og:title"\\s+content="([^"]+)"/i)?.[1] || cleanName;
+      const ogDesc = html.match(/property="og:description"\\s+content="([^"]+)"/i)?.[1] || '';
+
+      let imgTemplate = athlete?.imageUrl || athlete?.thumbnail?.urlTemplate || null;
+      let highRes = null;
+      let thumb = null;
+
+      if (imgTemplate) {
+        highRes = imgTemplate.replace('{formatInstructions}', 't_1-1_600/f_auto');
+        thumb = imgTemplate.replace('{formatInstructions}', 't_social_share_thumb/f_auto');
+      } else if (ogImage && ogImage.includes('/primary/')) {
+        const id = ogImage.split('/primary/')[1];
+        highRes = 'https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/' + id;
+        thumb = ogImage;
+      }
+
+      let country = athlete?.countryObject?.name || 
+                    athlete?.olympicResults?.[0]?.noc?.longName ||
+                    athlete?.tags?.find(t => t.extraData?.some(d => d.key === 'NOCCode' || d.key === 'TriLetter'))?.text ||
+                    detectCountry(html, ogDesc);
+      let countryCode = athlete?.countryObject?.triLetterCode || 
+                        athlete?.olympicResults?.[0]?.noc?.code ||
+                        null;
+      let discipline = athlete?.disciplines?.[0]?.title || 
+                       athlete?.discipline ||
+                       detectDiscipline(html, ogDesc);
+
+      const titleClean = athlete?.displayName || ogTitle.split('|')[0].split('Biography')[0].split('Records')[0].trim() || cleanName;
 
       const record = {
         slug,
         name: titleClean,
         image: highRes || null,
-        thumbnail: ogImage || null,
-        description: ogDesc || 'Olympic athlete from the official Olympic Games database.',
-        discipline: detectDiscipline(html, ogDesc),
-        country: detectCountry(html, ogDesc),
+        thumbnail: thumb || ogImage || null,
+        description: ogDesc || athlete?.metaDescription || 'Olympic athlete from the official Olympic Games database.',
+        discipline: discipline || 'Olympic Sport',
+        country: country || 'International',
+        countryCode: countryCode || null,
         url: profileUrl
       };
 
@@ -123,6 +156,38 @@ async function resolveAthleteDetails(slug, name) {
     }
   } catch (err) {}
 
+  // Fallback to Olympics Search API
+  try {
+    const searchRes = await fetch('https://www.olympics.com/en/api/v2/search/full/type/athletes/query/' + encodeURIComponent(slug.replace(/-/g, ' ')) + '/top/3/skip/0', {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': 'application/json'
+      }
+    });
+    if (searchRes.ok) {
+      const data = await searchRes.json();
+      const items = data.modules?.find(m => m.type === 'searchResult')?.content || [];
+      const item = items.find(i => i.slug === slug) || items[0];
+      if (item) {
+        const img = item.thumb ? item.thumb.replace('{formatInstructions}', 't_1-1_600/f_auto') : null;
+        const thumb = item.thumb ? item.thumb.replace('{formatInstructions}', 't_social_share_thumb/f_auto') : null;
+        const searchRecord = {
+          slug: item.slug || slug,
+          name: item.title || cleanName,
+          image: img,
+          thumbnail: thumb,
+          description: item.description || 'Olympic athlete profile.',
+          discipline: item.discipline || 'Olympic Sport',
+          country: item.country || 'International',
+          countryCode: item.countryCode || null,
+          url: profileUrl
+        };
+        athleteCache.set(slug, searchRecord);
+        return searchRecord;
+      }
+    }
+  } catch (e) {}
+
   const fallback = {
     slug,
     name: cleanName,
@@ -130,7 +195,8 @@ async function resolveAthleteDetails(slug, name) {
     thumbnail: null,
     description: 'Official athlete registered in the Olympic Games database.',
     discipline: 'Olympic Sport',
-    country: '🌐 International',
+    country: 'International',
+    countryCode: null,
     url: profileUrl
   };
   athleteCache.set(slug, fallback);
@@ -139,13 +205,13 @@ async function resolveAthleteDetails(slug, name) {
 
 function detectDiscipline(html, desc) {
   const list = [
-    'Athletics', 'Artistic Gymnastics', 'Swimming', 'Table Tennis', 'Tennis',
+    'Artistic Gymnastics', 'Swimming', 'Table Tennis', 'Tennis',
     'Basketball', 'Judo', 'Badminton', 'Boxing', 'Shooting', 'Archery',
     'Diving', 'Skateboarding', 'Weightlifting', 'Wrestling', 'Fencing',
     'Cycling Road', 'Cycling Track', 'Rowing', 'Alpine Skiing', 'Figure Skating',
     'Freestyle Skiing', 'Snowboard', 'Speed Skating', 'Biathlon', 'Golf',
     'Football', 'Volleyball', 'Handball', 'Water Polo', 'Triathlon', 'Taekwondo',
-    'Canoe Sprint', 'Canoe Slalom', 'Sport Climbing', 'Surfing', 'Breaking'
+    'Canoe Sprint', 'Canoe Slalom', 'Sport Climbing', 'Surfing', 'Breaking', 'Athletics'
   ];
   const fullText = (html + ' ' + desc).toLowerCase();
   for (const d of list) {
@@ -156,6 +222,7 @@ function detectDiscipline(html, desc) {
 
 function detectCountry(html, desc) {
   const countries = [
+    { name: 'Spain', flag: '🇪🇸' },
     { name: 'India', flag: '🇮🇳' },
     { name: 'United States', flag: '🇺🇸' },
     { name: 'China', flag: '🇨🇳' },
@@ -168,7 +235,6 @@ function detectCountry(html, desc) {
     { name: 'Brazil', flag: '🇧🇷' },
     { name: 'Canada', flag: '🇨🇦' },
     { name: 'Korea', flag: '🇰🇷' },
-    { name: 'Spain', flag: '🇪🇸' },
     { name: 'Netherlands', flag: '🇳🇱' },
     { name: 'Indonesia', flag: '🇮🇩' },
     { name: 'Norway', flag: '🇳🇴' },
@@ -182,9 +248,9 @@ function detectCountry(html, desc) {
   ];
   const fullText = (html + ' ' + desc).toLowerCase();
   for (const c of countries) {
-    if (fullText.includes(c.name.toLowerCase())) return c.flag + ' ' + c.name;
+    if (fullText.includes(c.name.toLowerCase())) return c.name;
   }
-  return '🌐 International';
+  return 'International';
 }
 
 function setCorsHeaders(res) {
@@ -203,4 +269,4 @@ module.exports = {
 `;
 
 fs.writeFileSync(path.join(__dirname, 'api', '_shared.js'), code, 'utf8');
-console.log('Successfully re-compiled api/_shared.js with synchronous photo initialization!');
+console.log('Successfully re-compiled api/_shared.js with improved resolution & photo matching!');

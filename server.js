@@ -70,7 +70,8 @@ const server = http.createServer(async (req, res) => {
           image: details?.image || details?.thumbnail || null,
           thumbnail: details?.thumbnail || null,
           discipline: details?.discipline || 'Olympic Athlete',
-          country: details?.country || '🌐 International',
+          country: details?.country || 'International',
+          countryCode: details?.countryCode || null,
           description: details?.description || ''
         };
       })

@@ -236,6 +236,20 @@ function createAthleteGridCard(ath) {
         const res = await fetch(`/api/athlete-details?slug=${encodeURIComponent(ath.slug)}&name=${encodeURIComponent(ath.name)}`);
         if (res.ok) {
           const details = await res.json();
+          if (details.image) {
+            ath.image = details.image;
+            ath.thumbnail = details.thumbnail;
+            const img = document.createElement('img');
+            img.src = details.image;
+            img.alt = details.name;
+            img.loading = 'lazy';
+            img.referrerPolicy = 'no-referrer';
+            mediaContainer.innerHTML = '';
+            mediaContainer.appendChild(img);
+          }
+          if (details.country) ath.country = details.country;
+          if (details.countryCode) ath.countryCode = details.countryCode;
+          if (details.discipline) ath.discipline = details.discipline;
           openAthleteModal(details);
         } else {
           openAthleteModal(ath);
@@ -262,6 +276,10 @@ function createOlympicLogoFallbackNode() {
 // 4. Open Athlete Details Modal (Shows full image or Olympic logo fallback)
 function openAthleteModal(ath) {
   const imgSrc = ath.image || ath.thumbnail || 'logo.png';
+  modalHeroImg.onerror = () => {
+    modalHeroImg.src = 'logo.png';
+    modalHeroImg.classList.add('modal-fallback-logo');
+  };
   modalHeroImg.src = imgSrc;
   modalHeroImg.referrerPolicy = 'no-referrer';
   
