@@ -1,4 +1,3 @@
-const url = require('url');
 const { ensureAthletesLoaded, resolveAthleteDetails, setCorsHeaders, athleteCache } = require('./_shared');
 
 module.exports = async (req, res) => {
@@ -11,10 +10,10 @@ module.exports = async (req, res) => {
   }
 
   const allAthletes = await ensureAthletesLoaded();
-  const parsedUrl = url.parse(req.url, true);
-  const q = (parsedUrl.query.q || '').trim().toLowerCase();
-  const page = Math.max(parseInt(parsedUrl.query.page, 10) || 1, 1);
-  const limit = Math.min(Math.max(parseInt(parsedUrl.query.limit, 10) || 36, 1), 100);
+  const parsedUrl = new URL(req.url, 'http://localhost');
+  const q = (parsedUrl.searchParams.get('q') || '').trim().toLowerCase();
+  const page = Math.max(parseInt(parsedUrl.searchParams.get('page'), 10) || 1, 1);
+  const limit = Math.min(Math.max(parseInt(parsedUrl.searchParams.get('limit'), 10) || 36, 1), 100);
 
   let filtered = allAthletes;
   if (q) {

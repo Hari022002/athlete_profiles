@@ -4,13 +4,27 @@ const GITHUB_ATHLETE_URL = 'https://raw.githubusercontent.com/Hari022002/athlete
 let allAthletes = [];
 const athleteCache = new Map();
 
-// Featured champions slugs
+// Preload cached verified high-res athlete portraits
+try {
+  const preloadedCache = require('./athlete_images_cache.json');
+  for (const item of preloadedCache) {
+    if (item && item.slug) {
+      athleteCache.set(item.slug, item);
+    }
+  }
+} catch (e) {
+  console.log('No preloaded cache:', e.message);
+}
+
+// Featured champions slugs that are guaranteed to have HD photos and info
 const FEATURED_SLUGS = [
   'neeraj-chopra', 'simone-biles', 'jannik-sinner', 'teddy-riner', 'katie-ledecky',
-  'long-ma', 'armand-duplantis', 'noah-lyles', 'sun-yingsha', 'zheng-qinwen',
+  'long-ma', 'armand-duplantis', 'noah-lyles', 'yingsha-sun', 'qinwen-zheng',
   'carlos-alcaraz', 'leon-marchand', 'victor-wembanyama', 'stephen-curry', 'lebron-james',
-  'rebeca-andrade', 'pan-zhanle', 'caeleb-dressel', 'femke-bol', 'sydney-mclaughlin-levrone',
-  'sukhee-shim', 'sara-conti', 'petr-gumennik'
+  'rebeca-andrade', 'zhanle-pan', 'caeleb-dressel', 'femke-bol', 'sydney-mclaughlin',
+  'usain-bolt', 'coco-gauff', 'manu-bhaker', 'arshad-nadeem', 'novak-djokovic',
+  'summer-mcintosh', 'rayssa-leal', 'yuto-horigome', 'eliud-kipchoge', 'tadej-pogacar',
+  'sara-conti', 'julien-alfred', 'ariarne-titmus'
 ];
 
 async function ensureAthletesLoaded() {
@@ -26,7 +40,7 @@ async function ensureAthletesLoaded() {
   return allAthletes;
 }
 
-// Resolve athlete profile details and image from Olympics.com
+// Resolve athlete profile details and image from Olympics.com or cache
 async function resolveAthleteDetails(slug, name) {
   if (athleteCache.has(slug)) {
     return athleteCache.get(slug);
@@ -37,10 +51,14 @@ async function resolveAthleteDetails(slug, name) {
 
   try {
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 2500);
+    const timeoutId = setTimeout(() => controller.abort(), 2000);
 
     const res = await fetch(profileUrl, {
-      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5'
+      },
       signal: controller.signal
     });
     clearTimeout(timeoutId);
@@ -64,7 +82,7 @@ async function resolveAthleteDetails(slug, name) {
         name: titleClean,
         image: highRes || null,
         thumbnail: ogImage || null,
-        description: ogDesc || 'Olympic athlete from the official Olympic Games sitemap.',
+        description: ogDesc || 'Olympic athlete from the official Olympic Games database.',
         discipline: detectDiscipline(html, ogDesc),
         country: detectCountry(html, ogDesc),
         url: profileUrl
@@ -103,7 +121,7 @@ function detectDiscipline(html, desc) {
   for (const d of list) {
     if (fullText.includes(d.toLowerCase())) return d;
   }
-  return 'Olympic Sports';
+  return 'Olympic Sport';
 }
 
 function detectCountry(html, desc) {
@@ -124,7 +142,13 @@ function detectCountry(html, desc) {
     { name: 'Netherlands', flag: '🇳🇱' },
     { name: 'Indonesia', flag: '🇮🇩' },
     { name: 'Norway', flag: '🇳🇴' },
-    { name: 'Sweden', flag: '🇸🇪' }
+    { name: 'Sweden', flag: '🇸🇪' },
+    { name: 'Kenya', flag: '🇰🇪' },
+    { name: 'Jamaica', flag: '🇯🇲' },
+    { name: 'Serbia', flag: '🇷🇸' },
+    { name: 'Slovenia', flag: '🇸🇮' },
+    { name: 'Saint Lucia', flag: '🇱🇨' },
+    { name: 'Pakistan', flag: '🇵🇰' }
   ];
   const fullText = (html + ' ' + desc).toLowerCase();
   for (const c of countries) {

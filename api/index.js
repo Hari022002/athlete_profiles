@@ -3,7 +3,7 @@ const featuredHandler = require('./featured');
 const detailsHandler = require('./athlete-details');
 
 module.exports = async (req, res) => {
-  const parsedUrl = require('url').parse(req.url, true);
+  const parsedUrl = new URL(req.url, 'http://localhost');
   const pathname = parsedUrl.pathname;
 
   if (pathname.includes('featured')) {

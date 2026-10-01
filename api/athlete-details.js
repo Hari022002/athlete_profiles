@@ -1,4 +1,3 @@
-const url = require('url');
 const { resolveAthleteDetails, setCorsHeaders } = require('./_shared');
 
 module.exports = async (req, res) => {
@@ -10,9 +9,9 @@ module.exports = async (req, res) => {
     return;
   }
 
-  const parsedUrl = url.parse(req.url, true);
-  const slug = (parsedUrl.query.slug || '').trim();
-  const name = parsedUrl.query.name || '';
+  const parsedUrl = new URL(req.url, 'http://localhost');
+  const slug = (parsedUrl.searchParams.get('slug') || '').trim();
+  const name = parsedUrl.searchParams.get('name') || '';
 
   if (!slug) {
     res.setHeader('Content-Type', 'application/json');
