@@ -4,16 +4,18 @@ const GITHUB_ATHLETE_URL = 'https://raw.githubusercontent.com/Hari022002/athlete
 let allAthletes = [];
 const athleteCache = new Map();
 
-// Preload cached verified high-res athlete portraits
+// Preload cached verified high-res athlete portraits from JS module
 try {
-  const preloadedCache = require('./athlete_images_cache.json');
-  for (const item of preloadedCache) {
-    if (item && item.slug) {
-      athleteCache.set(item.slug, item);
+  const preloadedCache = require('./cache_data');
+  if (Array.isArray(preloadedCache)) {
+    for (const item of preloadedCache) {
+      if (item && item.slug) {
+        athleteCache.set(item.slug, item);
+      }
     }
   }
 } catch (e) {
-  console.log('No preloaded cache:', e.message);
+  console.log('Error loading cache_data:', e.message);
 }
 
 // Featured champions slugs that are guaranteed to have HD photos and info

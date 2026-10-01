@@ -42,7 +42,11 @@ const COUNTRY_FLAGS = {
   'RSA': '🇿🇦', 'ZA': '🇿🇦', 'South Africa': '🇿🇦',
   'NZL': '🇳🇿', 'NZ': '🇳🇿', 'New Zealand': '🇳🇿',
   'BEL': '🇧🇪', 'BE': '🇧🇪', 'Belgium': '🇧🇪',
-  'ARG': '🇦🇷', 'AR': '🇦🇷', 'Argentina': '🇦🇷'
+  'ARG': '🇦🇷', 'AR': '🇦🇷', 'Argentina': '🇦🇷',
+  'SRB': '🇷🇸', 'Serbia': '🇷🇸',
+  'SLO': '🇸🇮', 'Slovenia': '🇸🇮',
+  'LCA': '🇱🇨', 'Saint Lucia': '🇱🇨',
+  'PAK': '🇵🇰', 'Pakistan': '🇵🇰'
 };
 
 // DOM Elements
@@ -94,7 +98,7 @@ async function loadFeaturedAthletes() {
       const flag = getFlag(ath.countryCode || ath.country);
 
       card.innerHTML = `
-        <img src="${imgSrc}" alt="${escapeHtml(ath.name)}" loading="lazy" class="${!ath.image ? 'contain-logo' : ''}" />
+        <img src="${imgSrc}" alt="${escapeHtml(ath.name)}" loading="lazy" referrerpolicy="no-referrer" class="${!ath.image ? 'contain-logo' : ''}" />
         <div class="card-gradient-overlay"></div>
         <div class="card-content">
           <h4 class="card-name">${escapeHtml(ath.name)} ${flag}</h4>
@@ -195,6 +199,7 @@ function createAthleteGridCard(ath) {
     img.src = ath.image || ath.thumbnail;
     img.alt = ath.name;
     img.loading = 'lazy';
+    img.referrerPolicy = 'no-referrer';
     
     img.onerror = () => {
       mediaContainer.innerHTML = '';
@@ -258,6 +263,7 @@ function createOlympicLogoFallbackNode() {
 function openAthleteModal(ath) {
   const imgSrc = ath.image || ath.thumbnail || 'logo.png';
   modalHeroImg.src = imgSrc;
+  modalHeroImg.referrerPolicy = 'no-referrer';
   
   if (!ath.image && !ath.thumbnail) {
     modalHeroImg.classList.add('modal-fallback-logo');
@@ -375,6 +381,11 @@ function showToast(message) {
 function escapeHtml(str) {
   if (!str) return '';
   return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#039;/g, "'")
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
