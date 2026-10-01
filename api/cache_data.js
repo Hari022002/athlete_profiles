@@ -37,8 +37,7 @@ module.exports = [
     "country": "Sweden",
     "countryCode": "SWE",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/armand-duplantis",
-    "description": "Visit Armand DUPLANTIS profile and read the full biography, watch videos and read all the latest news. Click here for more."
+    "url": "https://www.olympics.com/en/athletes/armand-duplantis"
   },
   {
     "slug": "caroline-marks",
@@ -58,8 +57,7 @@ module.exports = [
     "country": "United States of America",
     "countryCode": "USA",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/noah-lyles",
-    "description": "Noah Lyles&#x27; profile, read the full biography, watch videos and read all the latest news. Click here for more."
+    "url": "https://www.olympics.com/en/athletes/noah-lyles"
   },
   {
     "slug": "mikaela-shiffrin",
@@ -79,8 +77,7 @@ module.exports = [
     "country": "India",
     "countryCode": "IND",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/neeraj-chopra",
-    "description": "Who is Neeraj Chopra? Know the Indian javelin throw athlete and his records, medals and achievements at the Olympics, World Athletics Championships and more from his career."
+    "url": "https://www.olympics.com/en/athletes/neeraj-chopra"
   },
   {
     "slug": "gu-ailing-eileen",
@@ -120,8 +117,7 @@ module.exports = [
     "country": "Venezuela",
     "countryCode": "VEN",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/yulimar-rojas",
-    "description": "Find out more about Yulimar Rojas, including the latest news, replays, and Olympic results. Discover the full bio on our Olympics.com athlete profile page."
+    "url": "https://www.olympics.com/en/athletes/yulimar-rojas"
   },
   {
     "slug": "novak-djokovic",
@@ -201,8 +197,7 @@ module.exports = [
     "country": "Kenya",
     "countryCode": "KEN",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/eliud-kipchoge",
-    "description": "Find out more about Eliud Kipchoge, including the latest news, replays and Olympic results. Discover more from Olympics.com."
+    "url": "https://www.olympics.com/en/athletes/eliud-kipchoge"
   },
   {
     "slug": "tadej-pogacar",
@@ -232,8 +227,7 @@ module.exports = [
     "country": "Jamaica",
     "countryCode": "JAM",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/usain-bolt",
-    "description": "Visit Usain Bolt Biography&#x27;s profile, read the full biography, see the number of Olympic medals, watch videos and read all the latest news. Click here for more."
+    "url": "https://www.olympics.com/en/athletes/usain-bolt"
   },
   {
     "slug": "julien-alfred",
@@ -243,19 +237,16 @@ module.exports = [
     "country": "Saint Lucia",
     "countryCode": "LCA",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/julien-alfred",
-    "description": "Visit Julien ALFRED profile and read the full biography, watch videos and read all the latest news. Click here for more."
+    "url": "https://www.olympics.com/en/athletes/julien-alfred"
   },
   {
     "slug": "jannik-sinner",
-    "name": "Jannik SINNER",
+    "name": "Jannik Sinner",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dny9w64q4l6reeckpjqb",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dny9w64q4l6reeckpjqb",
     "description": "Find out more about Jannik Sinner, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Tennis",
-    "url": "https://www.olympics.com/en/athletes/jannik-sinner",
-    "country": "Italy",
-    "countryCode": null
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/jannik-sinner"
   },
   {
     "slug": "teddy-riner",
@@ -263,21 +254,17 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/kxxtzpqkuka1rbzela9k",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/kxxtzpqkuka1rbzela9k",
     "description": "Find out more about Teddy Riner, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Judo",
-    "url": "https://www.olympics.com/en/athletes/teddy-riner",
-    "country": "France",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/teddy-riner"
   },
   {
     "slug": "long-ma",
-    "name": "MA Long",
+    "name": "Ma Long",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fzlkiegp1vzcpvrtm1m7",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fzlkiegp1vzcpvrtm1m7",
     "description": "Find out more about Ma Long, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Table Tennis",
-    "url": "https://www.olympics.com/en/athletes/long-ma",
-    "country": "People's Republic of China",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/long-ma"
   },
   {
     "slug": "yingsha-sun",
@@ -305,21 +292,17 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/aat2rhtnogyz8vbpcpax",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/aat2rhtnogyz8vbpcpax",
     "description": "View the Olympics.com biography for top moments, career stats, and key things to know about this athlete and their sporting achievements.",
-    "discipline": "Tennis",
-    "url": "https://www.olympics.com/en/athletes/carlos-alcaraz",
-    "country": "Spain",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/carlos-alcaraz"
   },
   {
     "slug": "rebeca-andrade",
-    "name": "Rebeca ANDRADE",
+    "name": "Rebeca Andrade",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/hienqcdyhpzbrse3nj83",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/hienqcdyhpzbrse3nj83",
     "description": "Find out more about Rebeca Andrade, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Artistic Gymnastics",
-    "url": "https://www.olympics.com/en/athletes/rebeca-andrade",
-    "country": "Brazil",
-    "countryCode": "BRA"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/rebeca-andrade"
   },
   {
     "slug": "zhanle-pan",
@@ -333,36 +316,30 @@ module.exports = [
   },
   {
     "slug": "ariarne-titmus",
-    "name": "Ariarne TITMUS",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1623685020/primary/pc675hnxouye7qdhjjzm",
+    "name": "Ariarne Titmus",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/pc675hnxouye7qdhjjzm",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1623685020/primary/pc675hnxouye7qdhjjzm",
     "description": "Find out more about Ariarne Titmus, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Swimming",
-    "url": "https://www.olympics.com/en/athletes/ariarne-titmus",
-    "country": "Australia",
-    "countryCode": "AUS"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/ariarne-titmus"
   },
   {
     "slug": "caeleb-dressel",
-    "name": "Caeleb DRESSEL",
+    "name": "Caleb Dressel",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dhltyvnktsl8uftdidho",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dhltyvnktsl8uftdidho",
     "description": "Caleb Dressel&#x27;s profile, read the full biography, see the number of Olympic medals, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Swimming",
-    "url": "https://www.olympics.com/en/athletes/caeleb-dressel",
-    "country": "United States of America",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/caeleb-dressel"
   },
   {
     "slug": "femke-bol",
-    "name": "Femke BOL",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1694943270/primary/qaok4dvmstfzzzne32il",
+    "name": "Femke Bol",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/qaok4dvmstfzzzne32il",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1694943270/primary/qaok4dvmstfzzzne32il",
     "description": "Find out more about Femke Bol, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/femke-bol",
-    "country": "Netherlands",
-    "countryCode": "NED"
+    "url": "https://www.olympics.com/en/athletes/femke-bol"
   },
   {
     "slug": "miltiadis-tentoglou",
@@ -371,9 +348,7 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ucvgayqwfhsaqs6cnjzl",
     "description": "Visit Miltiadis TENTOGLOU profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/miltiadis-tentoglou",
-    "country": "Greece",
-    "countryCode": "GRE"
+    "url": "https://www.olympics.com/en/athletes/miltiadis-tentoglou"
   },
   {
     "slug": "faith-chepngetich-kipyegon",
@@ -397,14 +372,12 @@ module.exports = [
   },
   {
     "slug": "shelly-ann-fraser-pryce",
-    "name": "Shelly-Ann FRASER-PRYCE",
+    "name": "Shelly-Ann Fraser-Pryce",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/zywqojcglbnzsvulk5zn",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/zywqojcglbnzsvulk5zn",
     "description": "Find out more about Shelly-Ann Fraser-Pryce, including the latest news, replays and Olympic results. Discover the full bio on our Olympics.com athlete profile page.",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/shelly-ann-fraser-pryce",
-    "country": "Jamaica",
-    "countryCode": "JAM"
+    "url": "https://www.olympics.com/en/athletes/shelly-ann-fraser-pryce"
   },
   {
     "slug": "sifan-hassan",
@@ -413,9 +386,7 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/qlbgjsjz4oia283h2pmd",
     "description": "Visit Sifan HASSAN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/sifan-hassan",
-    "country": "Netherlands",
-    "countryCode": "NED"
+    "url": "https://www.olympics.com/en/athletes/sifan-hassan"
   },
   {
     "slug": "jakob-ingebrigtsen",
@@ -424,31 +395,25 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/zydjthkswawnszt7rohh",
     "description": "Visit Jakob INGEBRIGTSEN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/jakob-ingebrigtsen",
-    "country": "Norway",
-    "countryCode": "NOR"
+    "url": "https://www.olympics.com/en/athletes/jakob-ingebrigtsen"
   },
   {
     "slug": "kevin-durant",
-    "name": "Kevin DURANT",
+    "name": "Kevin Durant",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ygq72vralnjrxsq7oely",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ygq72vralnjrxsq7oely",
     "description": "Find out more about Kevin Durant, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Basketball",
-    "url": "https://www.olympics.com/en/athletes/kevin-durant",
-    "country": "United States of America",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/kevin-durant"
   },
   {
     "slug": "nikola-jokic",
-    "name": "Nikola JOKIC",
+    "name": "Nikola Jokic",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/y1pyu8k5ovpcz8de7ahb",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/y1pyu8k5ovpcz8de7ahb",
     "description": "Find out more about Nikola Jokic, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Basketball",
-    "url": "https://www.olympics.com/en/athletes/nikola-jokic",
-    "country": "Serbia",
-    "countryCode": "SRB"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/nikola-jokic"
   },
   {
     "slug": "shai-gilgeous-alexander",
@@ -456,21 +421,17 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/jxokj3ljaqjynh5riefx",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/jxokj3ljaqjynh5riefx",
     "description": "Visit Shai GILGEOUS-ALEXANDER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Basketball",
-    "url": "https://www.olympics.com/en/athletes/shai-gilgeous-alexander",
-    "country": "Canada",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/shai-gilgeous-alexander"
   },
   {
     "slug": "giannis-antetokounmpo",
-    "name": "Giannis ANTETOKOUNMPO",
+    "name": "Giannis Antetokounmpo",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xwj5swro4f9wnhotw4k7",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xwj5swro4f9wnhotw4k7",
     "description": "View the Olympics.com biography for top moments, career stats, and key things to know about this athlete and their sporting achievements.",
-    "discipline": "Basketball",
-    "url": "https://www.olympics.com/en/athletes/giannis-antetokounmpo",
-    "country": "Greece",
-    "countryCode": "GRE"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/giannis-antetokounmpo"
   },
   {
     "slug": "luka-doncic",
@@ -478,10 +439,8 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/jxywqrwkavtdngmcap1b",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/jxywqrwkavtdngmcap1b",
     "description": "View the Olympics.com biography for top moments, career stats, and key things to know about this athlete and their sporting achievements.",
-    "discipline": "Basketball",
-    "url": "https://www.olympics.com/en/athletes/luka-doncic",
-    "country": "Slovenia",
-    "countryCode": "SLO"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/luka-doncic"
   },
   {
     "slug": "oleksandr-usyk",
@@ -489,32 +448,26 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/yyj0rinivmcouvkpi52t",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/yyj0rinivmcouvkpi52t",
     "description": "Visit Oleksandr USYK profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Boxing",
-    "url": "https://www.olympics.com/en/athletes/oleksandr-usyk",
-    "country": "Ukraine",
-    "countryCode": "UKR"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/oleksandr-usyk"
   },
   {
     "slug": "imane-khelif",
     "name": "Imane KHELIF",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1725457308/primary/lxse0vdvdbi2gdxre6f5",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/lxse0vdvdbi2gdxre6f5",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1725457308/primary/lxse0vdvdbi2gdxre6f5",
     "description": "Visit Imane KHELIF profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Boxing",
-    "url": "https://www.olympics.com/en/athletes/imane-khelif",
-    "country": "Algeria",
-    "countryCode": "ALG"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/imane-khelif"
   },
   {
     "slug": "arshad-nadeem",
-    "name": "Arshad NADEEM",
+    "name": "Arshad Nadeem",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/v3r8wc1p361yb0yl8k0y",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/v3r8wc1p361yb0yl8k0y",
     "description": "Arshad Nadeem is an athlete from Pakistan who competes in the javelin throw. He is an Olympic gold medal winner. See his profile, biography and know his career record, achievements and best throws.",
     "discipline": "Athletics",
-    "url": "https://www.olympics.com/en/athletes/arshad-nadeem",
-    "country": "Pakistan",
-    "countryCode": "PAK"
+    "url": "https://www.olympics.com/en/athletes/arshad-nadeem"
   },
   {
     "slug": "manu-bhaker",
@@ -522,10 +475,8 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/mok2cfergx5ornnw3o1y",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/mok2cfergx5ornnw3o1y",
     "description": "Manu Bhaker is an Indian shooter from Haryana. She is a two-time Olympic medal winner. See her profile, read the biography and know her career record and achievements.",
-    "discipline": "Shooting",
-    "url": "https://www.olympics.com/en/athletes/manu-bhaker",
-    "country": "India",
-    "countryCode": "IND"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/manu-bhaker"
   },
   {
     "slug": "viktor-axelsen",
@@ -533,21 +484,17 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ootvutcswvfnwe6nqcci",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ootvutcswvfnwe6nqcci",
     "description": "Find out more about Viktor Axelsen, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Badminton",
-    "url": "https://www.olympics.com/en/athletes/viktor-axelsen",
-    "country": "Denmark",
-    "countryCode": "DEN"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/viktor-axelsen"
   },
   {
     "slug": "carolina-marin",
-    "name": "Carolina MARIN",
+    "name": "Carolina Marín",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/rdu7zkg3yogvk3xxzsfg",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/rdu7zkg3yogvk3xxzsfg",
     "description": "Find out more about Carolina Marin, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Badminton",
-    "url": "https://www.olympics.com/en/athletes/carolina-marin",
-    "country": "Spain",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/carolina-marin"
   },
   {
     "slug": "lee-zii-jia",
@@ -555,10 +502,8 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ramdndbvgk2mvqbhmsxm",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ramdndbvgk2mvqbhmsxm",
     "description": "Visit Lee Zii Jia profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Badminton",
-    "url": "https://www.olympics.com/en/athletes/lee-zii-jia",
-    "country": "Malaysia",
-    "countryCode": "MAS"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/lee-zii-jia"
   },
   {
     "slug": "muralitharan-thinaah",
@@ -566,32 +511,26 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tivywaxrjwhpkxwm4hth",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tivywaxrjwhpkxwm4hth",
     "description": "Visit Muralitharan THINAAH profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Badminton",
-    "url": "https://www.olympics.com/en/athletes/muralitharan-thinaah",
-    "country": "Malaysia",
-    "countryCode": "MAS"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/muralitharan-thinaah"
   },
   {
     "slug": "cocona-hiraki",
     "name": "Cocona HIRAKI",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1656409468/primary/lh1ithdpjeoavxgcihxf",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/lh1ithdpjeoavxgcihxf",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1656409468/primary/lh1ithdpjeoavxgcihxf",
     "description": "Visit Cocona HIRAKI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Skateboarding",
-    "url": "https://www.olympics.com/en/athletes/cocona-hiraki",
-    "country": "Japan",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/cocona-hiraki"
   },
   {
     "slug": "sky-brown",
-    "name": "Sky BROWN",
+    "name": "Sky Brown",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/bs02l7k8qh7fmbpztfyl",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/bs02l7k8qh7fmbpztfyl",
     "description": "Find out more about British athlete Sky Brown, including the latest news, highlights, replays, and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Skateboarding",
-    "url": "https://www.olympics.com/en/athletes/sky-brown",
-    "country": "Great Britain",
-    "countryCode": "GBR"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/sky-brown"
   },
   {
     "slug": "thomas-daley",
@@ -629,10 +568,8 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/nrcgkccsyhjkr28dwhts",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/nrcgkccsyhjkr28dwhts",
     "description": "Visit Jack LAUGHER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Diving",
-    "url": "https://www.olympics.com/en/athletes/jack-laugher",
-    "country": "Great Britain",
-    "countryCode": "GBR"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/jack-laugher"
   },
   {
     "slug": "cassiel-rousseau",
@@ -640,21 +577,17 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/affcadupputkgqd5zjyk",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/affcadupputkgqd5zjyk",
     "description": "Visit Cassiel ROUSSEAU profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Diving",
-    "url": "https://www.olympics.com/en/athletes/cassiel-rousseau",
-    "country": "Australia",
-    "countryCode": "AUS"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/cassiel-rousseau"
   },
   {
     "slug": "yuzuru-hanyu",
-    "name": "Yuzuru HANYU",
+    "name": "Yuzuru Hanyu",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/cejxbt2dx61ek4h0vnpg",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/cejxbt2dx61ek4h0vnpg",
     "description": "Visit Yuzuru Hanyu&#x27;s profile, read the full biography, see the number of Olympic medals, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "url": "https://www.olympics.com/en/athletes/yuzuru-hanyu",
-    "country": "Japan",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/yuzuru-hanyu"
   },
   {
     "slug": "chen",
@@ -668,14 +601,12 @@ module.exports = [
   },
   {
     "slug": "chloe-kim",
-    "name": "Chloe KIM",
+    "name": "Chloe Kim",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/a9uqkjgmb7tcck0gsmyf",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/a9uqkjgmb7tcck0gsmyf",
     "description": "Chloe Kim&#x27;s profile, read the full biography, see the number of Olympic medals, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Snowboard",
-    "url": "https://www.olympics.com/en/athletes/chloe-kim",
-    "country": "United States of America",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/chloe-kim"
   },
   {
     "slug": "johannes-thingnes-boe",
@@ -683,10 +614,8 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/lurrhgyc9g3ya41xjh90",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/lurrhgyc9g3ya41xjh90",
     "description": "Visit Johannes Thingnes BOE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Biathlon",
-    "url": "https://www.olympics.com/en/athletes/johannes-thingnes-boe",
-    "country": "Norway",
-    "countryCode": "NOR"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/johannes-thingnes-boe"
   },
   {
     "slug": "federica-brignone",
@@ -694,10 +623,8 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tjhzy8fxifyeuuise4co",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tjhzy8fxifyeuuise4co",
     "description": "Visit Federica BRIGNONE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "url": "https://www.olympics.com/en/athletes/federica-brignone",
-    "country": "Italy",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/federica-brignone"
   },
   {
     "slug": "odermatt",
@@ -715,10 +642,8 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/podl0lkfpebcoe9plutp",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/podl0lkfpebcoe9plutp",
     "description": "Visit Kamila VALIEVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "url": "https://www.olympics.com/en/athletes/kamila-valieva",
-    "country": "ROC",
-    "countryCode": "ROC"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/kamila-valieva"
   },
   {
     "slug": "suzanne-schulting",
@@ -726,10 +651,8 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/qevp5flzdg24hlk8gavs",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/qevp5flzdg24hlk8gavs",
     "description": "Visit Suzanne SCHULTING profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "url": "https://www.olympics.com/en/athletes/suzanne-schulting",
-    "country": "Netherlands",
-    "countryCode": "NED"
+    "discipline": "Athletics",
+    "url": "https://www.olympics.com/en/athletes/suzanne-schulting"
   },
   {
     "slug": "sara-conti",
@@ -737,10 +660,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/e0f2zgnina8wxu4qhisc",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/e0f2zgnina8wxu4qhisc",
     "description": "Visit Sara CONTI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "Italy",
-    "url": "https://www.olympics.com/en/athletes/sara-conti",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/sara-conti"
   },
   {
     "slug": "jung-a-sung",
@@ -748,21 +670,19 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Jung-A SUNG profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/jung-a-sung",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇰🇷 Korea",
+    "url": "https://www.olympics.com/en/athletes/jung-a-sung"
   },
   {
     "slug": "chanu-saikhom-mirabai",
-    "name": "Saikhom MIRABAI CHANU",
+    "name": "Mirabai Chanu",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/iqxxg1lk6qekg9nddurp",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/iqxxg1lk6qekg9nddurp",
     "description": "Who is Mirabai Chanu? See her profile, read the biography of the Indian weightlifter and know how many medals she has won in her career, including at the Olympics.",
-    "discipline": "Weightlifting",
-    "country": "India",
-    "url": "https://www.olympics.com/en/athletes/chanu-saikhom-mirabai",
-    "countryCode": "IND"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/chanu-saikhom-mirabai"
   },
   {
     "slug": "carrie-lynne-englert",
@@ -770,21 +690,19 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Carrie Lynne ENGLERT profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Artistic Gymnastics",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/carrie-lynne-englert",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/carrie-lynne-englert"
   },
   {
     "slug": "tatjana-schoenmaker",
     "name": "Tatjana SMITH",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1690548311/primary/kmk6zjeqjs77jhpgwldc",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/kmk6zjeqjs77jhpgwldc",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1690548311/primary/kmk6zjeqjs77jhpgwldc",
     "description": "Visit Tatjana SMITH profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Swimming",
-    "country": "South Africa",
-    "url": "https://www.olympics.com/en/athletes/tatjana-schoenmaker",
-    "countryCode": "RSA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/tatjana-schoenmaker"
   },
   {
     "slug": "alexis-lopez-garcia",
@@ -792,10 +710,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/qkcs2htryos2gppjbovw",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/qkcs2htryos2gppjbovw",
     "description": "Visit Alexis LOPEZ GARCIA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Rowing",
-    "country": "Mexico",
-    "url": "https://www.olympics.com/en/athletes/alexis-lopez-garcia",
-    "countryCode": "MEX"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/alexis-lopez-garcia"
   },
   {
     "slug": "sun-yingsha",
@@ -823,10 +740,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Ian SANCHO CHINCHILLA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Judo",
-    "country": "Costa Rica",
-    "url": "https://www.olympics.com/en/athletes/ian-sancho-chinchilla",
-    "countryCode": "CRC"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/ian-sancho-chinchilla"
   },
   {
     "slug": "marc-cucurella",
@@ -834,10 +750,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/nbeutba7srbnv46hwwfd",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/nbeutba7srbnv46hwwfd",
     "description": "Visit Marc CUCURELLA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/marc-cucurella",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/marc-cucurella"
   },
   {
     "slug": "facundo-medina",
@@ -845,21 +760,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ivfamnzcbxjoeouyayet",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ivfamnzcbxjoeouyayet",
     "description": "Visit Facundo MEDINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Argentina",
-    "url": "https://www.olympics.com/en/athletes/facundo-medina",
-    "countryCode": "ARG"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/facundo-medina"
   },
   {
     "slug": "tulika-maan",
-    "name": "Tulika MAAN",
+    "name": "Tulika Maan",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ibulr0cmxqal6glq3he7",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ibulr0cmxqal6glq3he7",
     "description": "Tulika Maan is an Indian judo practitioner. She has competed at the Commonwealth Games and the Olympics. Know her biography, career, medals, records and achievements.",
-    "discipline": "Judo",
-    "country": "India",
-    "url": "https://www.olympics.com/en/athletes/tulika-maan",
-    "countryCode": "IND"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/tulika-maan"
   },
   {
     "slug": "sture-faglum-pettersson",
@@ -867,10 +780,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Sture FÅGLUM-PETTERSSON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cycling Road",
-    "country": "Sweden",
-    "url": "https://www.olympics.com/en/athletes/sture-faglum-pettersson",
-    "countryCode": "SWE"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/sture-faglum-pettersson"
   },
   {
     "slug": "penelope-heyns",
@@ -878,21 +790,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/mjswpdk35xfuzr6qvba1",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/mjswpdk35xfuzr6qvba1",
     "description": "Visit Penelope HEYNS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Swimming",
-    "country": "South Africa",
-    "url": "https://www.olympics.com/en/athletes/penelope-heyns",
-    "countryCode": "RSA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/penelope-heyns"
   },
   {
     "slug": "martin-zubimendi",
     "name": "Martin ZUBIMENDI",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ufl1irub1kbwiyl7q1qh",
-    "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ufl1irub1kbwiyl7q1qh",
+    "image": null,
+    "thumbnail": null,
     "description": "Visit Martin ZUBIMENDI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/martin-zubimendi",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/martin-zubimendi"
   },
   {
     "slug": "mikel-oyarzabal",
@@ -900,10 +810,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dzvqhwpnnuk80l4ejzrz",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dzvqhwpnnuk80l4ejzrz",
     "description": "Visit Mikel OYARZABAL profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/mikel-oyarzabal",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇯🇵 Japan",
+    "url": "https://www.olympics.com/en/athletes/mikel-oyarzabal"
   },
   {
     "slug": "edgar-grospiron",
@@ -911,10 +820,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fdia6hfyjy8e0cznqs9c",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fdia6hfyjy8e0cznqs9c",
     "description": "Visit Edgar GROSPIRON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Freestyle Skiing",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/edgar-grospiron",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/edgar-grospiron"
   },
   {
     "slug": "frederic-walter-dix",
@@ -922,21 +830,19 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Frederic Walter DIX profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Great Britain",
-    "url": "https://www.olympics.com/en/athletes/frederic-walter-dix",
-    "countryCode": "GBR"
+    "discipline": "Athletics",
+    "country": "🇬🇧 Great Britain",
+    "url": "https://www.olympics.com/en/athletes/frederic-walter-dix"
   },
   {
     "slug": "dani-olmo",
     "name": "Dani OLMO",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ssn1mpcyu8mq3ymtz2ik",
-    "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ssn1mpcyu8mq3ymtz2ik",
+    "image": null,
+    "thumbnail": null,
     "description": "Visit Dani OLMO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/dani-olmo",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/dani-olmo"
   },
   {
     "slug": "sandro-bazadze",
@@ -944,21 +850,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ldopekbykgupmz9vvrrk",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ldopekbykgupmz9vvrrk",
     "description": "Visit Sandro BAZADZE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Fencing",
-    "country": "Georgia",
-    "url": "https://www.olympics.com/en/athletes/sandro-bazadze",
-    "countryCode": "GEO"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/sandro-bazadze"
   },
   {
     "slug": "wenyen-gabriel",
-    "name": "Wenyen GABRIEL",
+    "name": "Wenyen Gabriel",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/zwtuqwwrfvc6jx5gwnhs",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/zwtuqwwrfvc6jx5gwnhs",
     "description": "Find out more about Wenyen Gabriel, including the latest news, Olympic Games action highlights, replays, and results in our Olympics.com bio.",
-    "discipline": "Basketball",
-    "country": "South Sudan",
-    "url": "https://www.olympics.com/en/athletes/wenyen-gabriel",
-    "countryCode": "SSD"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/wenyen-gabriel"
   },
   {
     "slug": "hocine-soltani",
@@ -966,43 +870,39 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/npqkuv6ap9yyiuf8o49c",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/npqkuv6ap9yyiuf8o49c",
     "description": "Visit Hocine SOLTANI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Boxing",
-    "country": "Algeria",
-    "url": "https://www.olympics.com/en/athletes/hocine-soltani",
-    "countryCode": "ALG"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/hocine-soltani"
   },
   {
     "slug": "parul-chaudhary",
-    "name": "Parul CHAUDHARY",
+    "name": "Parul Chaudhary",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/rsnnrgyuigbzrgxkimsk",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/rsnnrgyuigbzrgxkimsk",
     "description": "Parul Chaudhary is an Indian athlete who runs in the 3000m steeplechase and 5000m. Know her biography, athletics career, medals, records and achievements.",
     "discipline": "Athletics",
-    "country": "India",
-    "url": "https://www.olympics.com/en/athletes/parul-chaudhary",
-    "countryCode": "IND"
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/parul-chaudhary"
   },
   {
     "slug": "oriol-cardona-coll",
-    "name": "Oriol CARDONA COLL",
+    "name": "Oriol Cardona Coll",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/uc5mhutbgkzexlgbch00",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/uc5mhutbgkzexlgbch00",
     "description": "Visit Oriol CARDONA COLL profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/oriol-cardona-coll",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/oriol-cardona-coll"
   },
   {
     "slug": "mikel-merino",
     "name": "Mikel MERINO",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/q1yra8obni0paoiamixg",
-    "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/q1yra8obni0paoiamixg",
+    "image": null,
+    "thumbnail": null,
     "description": "Visit Mikel MERINO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/mikel-merino",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/mikel-merino"
   },
   {
     "slug": "giovani-lo-celso",
@@ -1010,10 +910,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xicms9sxjjvlnaumvmeu",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xicms9sxjjvlnaumvmeu",
     "description": "Visit Giovani LO CELSO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Argentina",
-    "url": "https://www.olympics.com/en/athletes/giovani-lo-celso",
-    "countryCode": "ARG"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/giovani-lo-celso"
   },
   {
     "slug": "clementine-meukeugni-noumbissi",
@@ -1021,10 +920,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/q1hdylrmlphfnnlhv6yv",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/q1hdylrmlphfnnlhv6yv",
     "description": "Visit Clementine MEUKEUGNI NOUMBISSI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Weightlifting",
-    "country": "Cameroon",
-    "url": "https://www.olympics.com/en/athletes/clementine-meukeugni-noumbissi",
-    "countryCode": "CMR"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/clementine-meukeugni-noumbissi"
   },
   {
     "slug": "watanabe",
@@ -1032,10 +930,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/o2odcpvzur8wxjrydusr",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/o2odcpvzur8wxjrydusr",
     "description": "Visit Keita WATANABE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/watanabe",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/watanabe"
   },
   {
     "slug": "erik-faglum-pettersson",
@@ -1043,10 +940,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Erik FÅGLUM-PETTERSSON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cycling Road",
-    "country": "Sweden",
-    "url": "https://www.olympics.com/en/athletes/erik-faglum-pettersson",
-    "countryCode": "SWE"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/erik-faglum-pettersson"
   },
   {
     "slug": "ekaterina-poistogova",
@@ -1055,9 +951,8 @@ module.exports = [
     "thumbnail": null,
     "description": "Visit Ekaterina POISTOGOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Russian Federation",
-    "url": "https://www.olympics.com/en/athletes/ekaterina-poistogova",
-    "countryCode": "RUS"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/ekaterina-poistogova"
   },
   {
     "slug": "taylor-townsend",
@@ -1065,10 +960,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/pr8vvf4lcmulicmenmik",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pr8vvf4lcmulicmenmik",
     "description": "Visit Taylor TOWNSEND profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Tennis",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/taylor-townsend",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/taylor-townsend"
   },
   {
     "slug": "el-hadji-amadou-dia-ba",
@@ -1077,9 +971,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/hpvtoh8iq05qyzc1vgsp",
     "description": "Visit El Hadji Amadou DIA BA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Senegal",
-    "url": "https://www.olympics.com/en/athletes/el-hadji-amadou-dia-ba",
-    "countryCode": "SEN"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/el-hadji-amadou-dia-ba"
   },
   {
     "slug": "olufunke-oshonaike",
@@ -1087,32 +980,29 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/wswpohlhibnwdmciw8ql",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/wswpohlhibnwdmciw8ql",
     "description": "Visit Olufunke OSHONAIKE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Table Tennis",
-    "country": "Nigeria",
-    "url": "https://www.olympics.com/en/athletes/olufunke-oshonaike",
-    "countryCode": "NGR"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/olufunke-oshonaike"
   },
   {
     "slug": "manu-kone",
     "name": "Manu KONE",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1783513679/primary/dtcvpnukn8efl6b8x3ud",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dtcvpnukn8efl6b8x3ud",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1783513679/primary/dtcvpnukn8efl6b8x3ud",
     "description": "Visit Manu KONE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/manu-kone",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/manu-kone"
   },
   {
     "slug": "tomas-faglum-pettersson",
-    "name": "Tomas FÅGLUM-PETTERSSON",
+    "name": "Tomas FÄGLUM-PETTERSSON",
     "image": null,
     "thumbnail": null,
-    "description": "Visit Tomas FÅGLUM-PETTERSSON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cycling Road",
-    "country": "Sweden",
-    "url": "https://www.olympics.com/en/athletes/tomas-faglum-pettersson",
-    "countryCode": "SWE"
+    "description": "Visit Tomas FÄGLUM-PETTERSSON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/tomas-faglum-pettersson"
   },
   {
     "slug": "pamela-jelimo",
@@ -1121,9 +1011,8 @@ module.exports = [
     "thumbnail": null,
     "description": "Visit Pamela JELIMO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Kenya",
-    "url": "https://www.olympics.com/en/athletes/pamela-jelimo",
-    "countryCode": "KEN"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/pamela-jelimo"
   },
   {
     "slug": "pan-zhanle",
@@ -1141,65 +1030,59 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/c45pi4npuuaoel3ndnql",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/c45pi4npuuaoel3ndnql",
     "description": "Visit Leandro PAREDES profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Argentina",
-    "url": "https://www.olympics.com/en/athletes/leandro-paredes",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/leandro-paredes"
   },
   {
     "slug": "thanh-nguyen",
-    "name": "Thanh C. Nguyen",
+    "name": "Thanh C. NGUYEN",
     "image": null,
     "thumbnail": null,
     "description": "Visit Thanh C. Nguyen profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Weightlifting",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/thanh-nguyen",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/thanh-nguyen"
   },
   {
     "slug": "samuel-anum-okai",
     "name": "Samuel Anum OKAI",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1783495738/primary/wksqaxbzf15ieiedv3ab",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/wksqaxbzf15ieiedv3ab",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1783495738/primary/wksqaxbzf15ieiedv3ab",
     "description": "Visit Samuel Anum OKAI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Ghana",
-    "url": "https://www.olympics.com/en/athletes/samuel-anum-okai",
-    "countryCode": "GHA"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/samuel-anum-okai"
   },
   {
     "slug": "chang-sun-chang",
-    "name": "Chang-Sun CHANG",
+    "name": "Chang Sun Chang",
     "image": null,
     "thumbnail": null,
-    "description": "Visit Chang-Sun CHANG profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Wrestling Freestyle",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/chang-sun-chang",
-    "countryCode": null
+    "description": "Official athlete registered in the Olympic Games database.",
+    "discipline": "Olympic Sport",
+    "country": "International",
+    "url": "https://www.olympics.com/en/athletes/chang-sun-chang"
   },
   {
     "slug": "mark-jeffrey-zembsch",
-    "name": "Mark Jeffrey ZEMBSCH",
+    "name": "Mark Jeffrey Zembsch",
     "image": null,
     "thumbnail": null,
-    "description": "Visit Mark Jeffrey ZEMBSCH profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Rowing",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/mark-jeffrey-zembsch",
-    "countryCode": "USA"
+    "description": "Official athlete registered in the Olympic Games database.",
+    "discipline": "Olympic Sport",
+    "country": "International",
+    "url": "https://www.olympics.com/en/athletes/mark-jeffrey-zembsch"
   },
   {
     "slug": "alysia-johnson-montano",
-    "name": "Alysia JOHNSON MONTANO",
+    "name": "Alysia Johnson Montano",
     "image": null,
     "thumbnail": null,
-    "description": "Visit Alysia JOHNSON MONTANO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Athletics",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/alysia-johnson-montano",
-    "countryCode": "USA"
+    "description": "Official athlete registered in the Olympic Games database.",
+    "discipline": "Olympic Sport",
+    "country": "International",
+    "url": "https://www.olympics.com/en/athletes/alysia-johnson-montano"
   },
   {
     "slug": "sydney-mclaughlin-levrone",
@@ -1217,10 +1100,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/gjkrecuzhq8c1oxfrkzx",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/gjkrecuzhq8c1oxfrkzx",
     "description": "Visit Sukhee SHIM profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/sukhee-shim",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇨🇳 China",
+    "url": "https://www.olympics.com/en/athletes/sukhee-shim"
   },
   {
     "slug": "petr-gumennik",
@@ -1228,10 +1110,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/hawk99lguyc2oiuw0i9g",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/hawk99lguyc2oiuw0i9g",
     "description": "Visit Petr GUMENNIK profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/petr-gumennik",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/petr-gumennik"
   },
   {
     "slug": "rumesh-tharanga-pathirage",
@@ -1239,10 +1120,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fon3h5kwv71p02uzy2yo",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fon3h5kwv71p02uzy2yo",
     "description": "Rumesh Tharanga Pathirage is a javelin throw athlete from Sri Lanka. Know his biography, achievements, medals, records, personal bests and career highlights.",
-    "discipline": "Olympic Sport",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/rumesh-tharanga-pathirage",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/rumesh-tharanga-pathirage"
   },
   {
     "slug": "wei-keng-liang",
@@ -1250,21 +1130,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/meqm4bsdet3zuyr5voiw",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/meqm4bsdet3zuyr5voiw",
     "description": "Visit Wei Keng LIANG profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Badminton",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/wei-keng-liang",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "country": "🇨🇳 China",
+    "url": "https://www.olympics.com/en/athletes/wei-keng-liang"
   },
   {
     "slug": "venus-williams",
-    "name": "Venus WILLIAMS",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1762865541/primary/skeemlxelpvmgkrk7kkq",
+    "name": "Venus Williams",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/skeemlxelpvmgkrk7kkq",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1762865541/primary/skeemlxelpvmgkrk7kkq",
     "description": "Find out more about Venus Williams, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Tennis",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/venus-williams",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/venus-williams"
   },
   {
     "slug": "dongyong-kim",
@@ -1272,10 +1150,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Dongyong KIM profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Rowing",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/dongyong-kim",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/dongyong-kim"
   },
   {
     "slug": "tonya-harding",
@@ -1283,21 +1160,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/lmqd68jx5x5oeuwcqlu3",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/lmqd68jx5x5oeuwcqlu3",
     "description": "Visit Tonya HARDING profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/tonya-harding",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/tonya-harding"
   },
   {
     "slug": "stellato",
     "name": "Deanna STELLATO-DUDEK",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1731694439/primary/fpsntkgxy1cepu8ngct8",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fpsntkgxy1cepu8ngct8",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1731694439/primary/fpsntkgxy1cepu8ngct8",
     "description": "Visit Deanna STELLATO-DUDEK profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/stellato",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/stellato"
   },
   {
     "slug": "laurence-fournier-beaudry",
@@ -1305,10 +1180,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/rndn7kj6vtmycqk7b8dc",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/rndn7kj6vtmycqk7b8dc",
     "description": "Visit Laurence FOURNIER-BEAUDRY profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/laurence-fournier-beaudry",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/laurence-fournier-beaudry"
   },
   {
     "slug": "javier-ibanez-diaz",
@@ -1316,10 +1190,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/vdzuoelmoj2w6jn58zwd",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/vdzuoelmoj2w6jn58zwd",
     "description": "Visit Javier IBANEZ DIAZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Boxing",
-    "country": "Bulgaria",
-    "url": "https://www.olympics.com/en/athletes/javier-ibanez-diaz",
-    "countryCode": "BUL"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/javier-ibanez-diaz"
   },
   {
     "slug": "wooi-yik-soh",
@@ -1327,21 +1200,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ktbqdhvfqe7erkqzmnf9",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ktbqdhvfqe7erkqzmnf9",
     "description": "Visit Wooi Yik SOH profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Badminton",
-    "country": "Malaysia",
-    "url": "https://www.olympics.com/en/athletes/wooi-yik-soh",
-    "countryCode": "MAS"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/wooi-yik-soh"
   },
   {
     "slug": "nozomi-okuhara",
     "name": "Nozomi OKUHARA",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1622544939/primary/tpsyl1jo67ppni1obizw",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tpsyl1jo67ppni1obizw",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1622544939/primary/tpsyl1jo67ppni1obizw",
     "description": "Visit Nozomi OKUHARA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Badminton",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/nozomi-okuhara",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/nozomi-okuhara"
   },
   {
     "slug": "abderrahaman-samba",
@@ -1350,9 +1221,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/skjx12oribe3bpp0vski",
     "description": "Visit Abderrahman SAMBA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Qatar",
-    "url": "https://www.olympics.com/en/athletes/abderrahaman-samba",
-    "countryCode": "QAT"
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/abderrahaman-samba"
   },
   {
     "slug": "hiroki-yokoyama",
@@ -1360,10 +1230,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Hiroki YOKOYAMA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/hiroki-yokoyama",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇯🇵 Japan",
+    "url": "https://www.olympics.com/en/athletes/hiroki-yokoyama"
   },
   {
     "slug": "chang-wang-x0019",
@@ -1371,32 +1240,29 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dotafmm8iabivypnrsft",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dotafmm8iabivypnrsft",
     "description": "Visit Chang WANG profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Badminton",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/chang-wang-x0019",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "country": "🇨🇳 China",
+    "url": "https://www.olympics.com/en/athletes/chang-wang-x0019"
   },
   {
     "slug": "shimada-mao",
-    "name": "Mao SHIMADA",
+    "name": "SHIMADA Mao",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/v4g3zazcwfrsaxolgpfm",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/v4g3zazcwfrsaxolgpfm",
     "description": "Visit Mao SHIMADA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/shimada-mao",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/shimada-mao"
   },
   {
     "slug": "darja-varfolomeev",
-    "name": "Darja VARFOLOMEEV",
+    "name": "Darja Varfolomeev",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/g86rwfbhy8yc6algprsr",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/g86rwfbhy8yc6algprsr",
     "description": "Find out more about Darja Varfolomeev, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Rhythmic Gymnastics",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/darja-varfolomeev",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/darja-varfolomeev"
   },
   {
     "slug": "russell-dove",
@@ -1404,32 +1270,29 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Russell DOVE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Shooting",
-    "country": "Australia",
-    "url": "https://www.olympics.com/en/athletes/russell-dove",
-    "countryCode": "AUS"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/russell-dove"
   },
   {
     "slug": "nwankwo-kanu",
     "name": "Nwankwo KANU",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1787838944/primary/l6myw4mwejwosalriyth",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/l6myw4mwejwosalriyth",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1787838944/primary/l6myw4mwejwosalriyth",
     "description": "Visit Nwankwo KANU profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Nigeria",
-    "url": "https://www.olympics.com/en/athletes/nwankwo-kanu",
-    "countryCode": "NGR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/nwankwo-kanu"
   },
   {
     "slug": "willy-eichenberger",
     "name": "Willy EICHENBERGER",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/n18wheo497r9pypfiayu",
-    "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/n18wheo497r9pypfiayu",
+    "image": null,
+    "thumbnail": null,
     "description": "Visit Willy EICHENBERGER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Switzerland",
-    "url": "https://www.olympics.com/en/athletes/willy-eichenberger",
-    "countryCode": "SUI"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/willy-eichenberger"
   },
   {
     "slug": "cassandre-beaugrand",
@@ -1437,10 +1300,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tzv7xnkqewgtzy5b8wc5",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tzv7xnkqewgtzy5b8wc5",
     "description": "Visit Cassandre BEAUGRAND profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Triathlon",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/cassandre-beaugrand",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/cassandre-beaugrand"
   },
   {
     "slug": "hee-jeong-kim",
@@ -1448,10 +1310,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Hee-Jeong KIM profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Fencing",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/hee-jeong-kim",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇰🇷 Korea",
+    "url": "https://www.olympics.com/en/athletes/hee-jeong-kim"
   },
   {
     "slug": "aaron-chia",
@@ -1459,10 +1320,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xgt1lowsctvnckxbg6hr",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xgt1lowsctvnckxbg6hr",
     "description": "Visit Aaron CHIA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Badminton",
-    "country": "Malaysia",
-    "url": "https://www.olympics.com/en/athletes/aaron-chia",
-    "countryCode": "MAS"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/aaron-chia"
   },
   {
     "slug": "pearly-tan",
@@ -1470,10 +1330,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/def3xmkpxytnvvwvcz9h",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/def3xmkpxytnvvwvcz9h",
     "description": "Visit Pearly TAN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Badminton",
-    "country": "Malaysia",
-    "url": "https://www.olympics.com/en/athletes/pearly-tan",
-    "countryCode": "MAS"
+    "discipline": "Athletics",
+    "country": "🇨🇳 China",
+    "url": "https://www.olympics.com/en/athletes/pearly-tan"
   },
   {
     "slug": "anastasija-khmelnytska",
@@ -1481,10 +1340,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Anastasija KHMELNYTSKA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Rhythmic Gymnastics",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/anastasija-khmelnytska",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇩🇪 Germany",
+    "url": "https://www.olympics.com/en/athletes/anastasija-khmelnytska"
   },
   {
     "slug": "mirjana-jovovic",
@@ -1492,10 +1350,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Mirjana JOVOVIC profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Shooting",
-    "country": "The Federal Republic of Yugoslavia",
-    "url": "https://www.olympics.com/en/athletes/mirjana-jovovic",
-    "countryCode": "YUG"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/mirjana-jovovic"
   },
   {
     "slug": "ji-su-park",
@@ -1503,10 +1360,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Ji Su PARK profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Basketball",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/ji-su-park",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇰🇷 Korea",
+    "url": "https://www.olympics.com/en/athletes/ji-su-park"
   },
   {
     "slug": "kaltra-meca",
@@ -1514,10 +1370,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Kaltra MECA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Swimming",
-    "country": "Albania",
-    "url": "https://www.olympics.com/en/athletes/kaltra-meca",
-    "countryCode": "ALB"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/kaltra-meca"
   },
   {
     "slug": "mirjana-horvat",
@@ -1525,10 +1380,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Mirjana HORVAT profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Shooting",
-    "country": "Bosnia and Herzegovina",
-    "url": "https://www.olympics.com/en/athletes/mirjana-horvat",
-    "countryCode": "BIH"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/mirjana-horvat"
   },
   {
     "slug": "tserenchimed-sukhee",
@@ -1536,10 +1390,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Tserenchimed SUKHEE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Mongolia",
-    "url": "https://www.olympics.com/en/athletes/tserenchimed-sukhee",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/tserenchimed-sukhee"
   },
   {
     "slug": "tereza-petrzilkova",
@@ -1548,9 +1401,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/bo0tmxpdp1ezknmqwott",
     "description": "Visit Tereza PETRZILKOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Czechia",
-    "url": "https://www.olympics.com/en/athletes/tereza-petrzilkova",
-    "countryCode": "CZE"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/tereza-petrzilkova"
   },
   {
     "slug": "petra-sicakova",
@@ -1559,9 +1411,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/lno5ngrpwkl1hos6ojg0",
     "description": "Visit Petra SICAKOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Czechia",
-    "url": "https://www.olympics.com/en/athletes/petra-sicakova",
-    "countryCode": "CZE"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/petra-sicakova"
   },
   {
     "slug": "petar-petrov-mitsin",
@@ -1569,10 +1420,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/jkebdxh0vd8l4bspsgqo",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/jkebdxh0vd8l4bspsgqo",
     "description": "Visit Petar Petrov MITSIN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Swimming",
-    "country": "Bulgaria",
-    "url": "https://www.olympics.com/en/athletes/petar-petrov-mitsin",
-    "countryCode": "BUL"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/petar-petrov-mitsin"
   },
   {
     "slug": "zalina-petrivskaya",
@@ -1581,20 +1431,18 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/banvnxn7wqfveigwpaxe",
     "description": "Visit Zalina PETRIVSKAYA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Republic of Moldova",
-    "url": "https://www.olympics.com/en/athletes/zalina-petrivskaya",
-    "countryCode": "MDA"
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/zalina-petrivskaya"
   },
   {
     "slug": "niina-petrokina",
-    "name": "Niina PETROKINA",
+    "name": "Niina Petrokina",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ysoluvbutbeizeilv7kl",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ysoluvbutbeizeilv7kl",
     "description": "Visit Niina PETROKINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "Estonia",
-    "url": "https://www.olympics.com/en/athletes/niina-petrokina",
-    "countryCode": "EST"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/niina-petrokina"
   },
   {
     "slug": "adeliia-petrosian",
@@ -1602,10 +1450,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/igioj7opxepmz396efme",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/igioj7opxepmz396efme",
     "description": "Visit Adeliia PETROSIAN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/adeliia-petrosian",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/adeliia-petrosian"
   },
   {
     "slug": "petr-meindlschmid",
@@ -1614,9 +1461,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/cdhtja4smfz6m65qcbjw",
     "description": "Visit Petr MEINDLSCHMID profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Czechia",
-    "url": "https://www.olympics.com/en/athletes/petr-meindlschmid",
-    "countryCode": "CZE"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/petr-meindlschmid"
   },
   {
     "slug": "petra-senanszky",
@@ -1624,10 +1470,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/n9f4ytv89bkyw1skxd5n",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/n9f4ytv89bkyw1skxd5n",
     "description": "Visit Petra SENANSZKY profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Swimming",
-    "country": "Hungary",
-    "url": "https://www.olympics.com/en/athletes/petra-senanszky",
-    "countryCode": "HUN"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/petra-senanszky"
   },
   {
     "slug": "petra-vankova",
@@ -1635,10 +1480,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dxmrqzgvux8whbfpy1jy",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dxmrqzgvux8whbfpy1jy",
     "description": "Visit Petra VANKOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Czechia",
-    "url": "https://www.olympics.com/en/athletes/petra-vankova",
-    "countryCode": "CZE"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/petra-vankova"
   },
   {
     "slug": "petra-anita-fuezi-tovizi",
@@ -1646,10 +1490,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dutbzlqwmjvsxjme6htr",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dutbzlqwmjvsxjme6htr",
     "description": "Visit Petra Anita FUEZI TOVIZI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Handball",
-    "country": "Hungary",
-    "url": "https://www.olympics.com/en/athletes/petra-anita-fuezi-tovizi",
-    "countryCode": "HUN"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/petra-anita-fuezi-tovizi"
   },
   {
     "slug": "paulina-petri",
@@ -1657,10 +1500,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/gpllkvrjatciu8bomqjb",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/gpllkvrjatciu8bomqjb",
     "description": "Visit Paulina PETRI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cycling Track ",
-    "country": "Poland",
-    "url": "https://www.olympics.com/en/athletes/paulina-petri",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/paulina-petri"
   },
   {
     "slug": "william-campbell-petric",
@@ -1668,10 +1510,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/m97ene7hlmvjcsz2qs5n",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/m97ene7hlmvjcsz2qs5n",
     "description": "Visit William Campbell PETRIC profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Swimming",
-    "country": "Australia",
-    "url": "https://www.olympics.com/en/athletes/william-campbell-petric",
-    "countryCode": "AUS"
+    "discipline": "Athletics",
+    "country": "🇦🇺 Australia",
+    "url": "https://www.olympics.com/en/athletes/william-campbell-petric"
   },
   {
     "slug": "andrius-petrovas",
@@ -1679,10 +1520,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/f2lrlhvuu8bdrq9ufpej",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/f2lrlhvuu8bdrq9ufpej",
     "description": "Visit Andrius PETROVAS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Equestrian",
-    "country": "Lithuania",
-    "url": "https://www.olympics.com/en/athletes/andrius-petrovas",
-    "countryCode": "LTU"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/andrius-petrovas"
   },
   {
     "slug": "amanal-petros",
@@ -1691,9 +1531,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xou7k5jwtofnjcpiw7ew",
     "description": "Visit Amanal PETROS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/amanal-petros",
-    "countryCode": "GER"
+    "country": "🇯🇵 Japan",
+    "url": "https://www.olympics.com/en/athletes/amanal-petros"
   },
   {
     "slug": "petra-banhidi-farkas",
@@ -1702,9 +1541,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/v90q8lx4l4jebegqjcro",
     "description": "Visit Petra BANHIDI-FARKAS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Hungary",
-    "url": "https://www.olympics.com/en/athletes/petra-banhidi-farkas",
-    "countryCode": "HUN"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/petra-banhidi-farkas"
   },
   {
     "slug": "kamelia-petrova",
@@ -1712,10 +1550,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ehiupbbrzisze1qswld7",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ehiupbbrzisze1qswld7",
     "description": "Visit Kamelia PETROVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Rhythmic Gymnastics",
-    "country": "Bulgaria",
-    "url": "https://www.olympics.com/en/athletes/kamelia-petrova",
-    "countryCode": "BUL"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/kamelia-petrova"
   },
   {
     "slug": "victoria-stefania-petreanu",
@@ -1723,10 +1560,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ijtq1lagz70f2xiyykc2",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ijtq1lagz70f2xiyykc2",
     "description": "Visit Victoria Stefania PETREANU profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Rowing",
-    "country": "Romania",
-    "url": "https://www.olympics.com/en/athletes/victoria-stefania-petreanu",
-    "countryCode": "ROU"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/victoria-stefania-petreanu"
   },
   {
     "slug": "gabriela-petrova",
@@ -1735,9 +1571,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/bd6e1fl583reiivczql9",
     "description": "Visit Gabriela PETROVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Bulgaria",
-    "url": "https://www.olympics.com/en/athletes/gabriela-petrova",
-    "countryCode": "BUL"
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/gabriela-petrova"
   },
   {
     "slug": "petra-stolbova",
@@ -1745,10 +1580,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dkznpgnqvfaayntvnl2x",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dkznpgnqvfaayntvnl2x",
     "description": "Visit Petra STOLBOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Taekwondo",
-    "country": "Czechia",
-    "url": "https://www.olympics.com/en/athletes/petra-stolbova",
-    "countryCode": "CZE"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/petra-stolbova"
   },
   {
     "slug": "zakhar-petrov",
@@ -1756,10 +1590,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/qqqlrvqz9vks7314wqdz",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/qqqlrvqz9vks7314wqdz",
     "description": "Visit Zakhar PETROV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Canoe Sprint",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/zakhar-petrov",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇨🇳 China",
+    "url": "https://www.olympics.com/en/athletes/zakhar-petrov"
   },
   {
     "slug": "petros-gkaidatzis",
@@ -1767,10 +1600,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/n2bx0pd6fmrwpzfkrlre",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/n2bx0pd6fmrwpzfkrlre",
     "description": "Visit Petros GKAIDATZIS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Rowing",
-    "country": "Greece",
-    "url": "https://www.olympics.com/en/athletes/petros-gkaidatzis",
-    "countryCode": "GRE"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/petros-gkaidatzis"
   },
   {
     "slug": "ricky-petrucciani",
@@ -1779,9 +1611,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ynygvdf9tlmxqis20dt1",
     "description": "Visit Ricky PETRUCCIANI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Switzerland",
-    "url": "https://www.olympics.com/en/athletes/ricky-petrucciani",
-    "countryCode": "SUI"
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/ricky-petrucciani"
   },
   {
     "slug": "mathilde-petriaux",
@@ -1789,10 +1620,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xkkisyjmxsfydcv7looo",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xkkisyjmxsfydcv7looo",
     "description": "Visit Mathilde PETRIAUX profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Hockey",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/mathilde-petriaux",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/mathilde-petriaux"
   },
   {
     "slug": "petra-nieminen",
@@ -1800,10 +1630,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/hrmz39jshwqhlezrllej",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/hrmz39jshwqhlezrllej",
     "description": "Visit Petra NIEMINEN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "Finland",
-    "url": "https://www.olympics.com/en/athletes/petra-nieminen",
-    "countryCode": "FIN"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/petra-nieminen"
   },
   {
     "slug": "stanimira-petrova",
@@ -1811,10 +1640,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/hiiejaomaec5u6w8cufa",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/hiiejaomaec5u6w8cufa",
     "description": "Visit Stanimira PETROVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Boxing",
-    "country": "Bulgaria",
-    "url": "https://www.olympics.com/en/athletes/stanimira-petrova",
-    "countryCode": "BUL"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/stanimira-petrova"
   },
   {
     "slug": "petra-kurikova",
@@ -1822,10 +1650,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ellqakvit8eaokrmsbp4",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ellqakvit8eaokrmsbp4",
     "description": "Visit Petra KURIKOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Triathlon",
-    "country": "Czechia",
-    "url": "https://www.olympics.com/en/athletes/petra-kurikova",
-    "countryCode": "CZE"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/petra-kurikova"
   },
   {
     "slug": "petr-nymbursky",
@@ -1833,10 +1660,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/nkip4bcdzkxytlheusw2",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/nkip4bcdzkxytlheusw2",
     "description": "Visit Petr NYMBURSKY profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Shooting",
-    "country": "Czechia",
-    "url": "https://www.olympics.com/en/athletes/petr-nymbursky",
-    "countryCode": "CZE"
+    "discipline": "Athletics",
+    "country": "🇩🇪 Germany",
+    "url": "https://www.olympics.com/en/athletes/petr-nymbursky"
   },
   {
     "slug": "petra-simon",
@@ -1844,10 +1670,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/cdkdkx8oxay8rntg2mie",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/cdkdkx8oxay8rntg2mie",
     "description": "Visit Petra SIMON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Handball",
-    "country": "Hungary",
-    "url": "https://www.olympics.com/en/athletes/petra-simon",
-    "countryCode": "HUN"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/petra-simon"
   },
   {
     "slug": "eleftherios-petrounias",
@@ -1855,10 +1680,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/cmgkolispysjuvurz9iq",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/cmgkolispysjuvurz9iq",
     "description": "Visit Eleftherios PETROUNIAS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Artistic Gymnastics",
-    "country": "Greece",
-    "url": "https://www.olympics.com/en/athletes/eleftherios-petrounias",
-    "countryCode": "GRE"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/eleftherios-petrounias"
   },
   {
     "slug": "petra-vlhova",
@@ -1866,10 +1690,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/mmvmcnq5wpefwjz0ti1f",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/mmvmcnq5wpefwjz0ti1f",
     "description": "Visit Petra VLHOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "Slovakia",
-    "url": "https://www.olympics.com/en/athletes/petra-vlhova",
-    "countryCode": "SVK"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/petra-vlhova"
   },
   {
     "slug": "petr-fuksa-x5909",
@@ -1877,10 +1700,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/zifywpufks8g30s7ndim",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/zifywpufks8g30s7ndim",
     "description": "Visit Petr FUKSA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Canoe Sprint",
-    "country": "Czechia",
-    "url": "https://www.olympics.com/en/athletes/petr-fuksa-x5909",
-    "countryCode": "CZE"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/petr-fuksa-x5909"
   },
   {
     "slug": "ward-petre",
@@ -1888,10 +1710,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/wkzthytlw4rphv7hnfn1",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/wkzthytlw4rphv7hnfn1",
     "description": "Visit Ward PETRE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Belgium",
-    "url": "https://www.olympics.com/en/athletes/ward-petre",
-    "countryCode": "BEL"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/ward-petre"
   },
   {
     "slug": "petra-vamos",
@@ -1899,10 +1720,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/udivlwu5pzrjq056a5a3",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/udivlwu5pzrjq056a5a3",
     "description": "Visit Petra VAMOS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Handball",
-    "country": "Hungary",
-    "url": "https://www.olympics.com/en/athletes/petra-vamos",
-    "countryCode": "HUN"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/petra-vamos"
   },
   {
     "slug": "filip-petrusev",
@@ -1910,10 +1730,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xlgkgnt1nq0oom57tepc",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xlgkgnt1nq0oom57tepc",
     "description": "Visit Filip PETRUSEV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Basketball",
-    "country": "Serbia",
-    "url": "https://www.olympics.com/en/athletes/filip-petrusev",
-    "countryCode": "SRB"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/filip-petrusev"
   },
   {
     "slug": "geno-petriashvili",
@@ -1921,10 +1740,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/vj24syvlbg0yeu4g0bmn",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/vj24syvlbg0yeu4g0bmn",
     "description": "Visit Geno PETRIASHVILI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Wrestling",
-    "country": "Georgia",
-    "url": "https://www.olympics.com/en/athletes/geno-petriashvili",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/geno-petriashvili"
   },
   {
     "slug": "christania-simone-williams",
@@ -1932,32 +1750,29 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/mk9m08clbzkfbbfhaew0",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/mk9m08clbzkfbbfhaew0",
     "description": "Visit Christania Simone WILLIAMS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Bobsleigh",
-    "country": "Austria",
-    "url": "https://www.olympics.com/en/athletes/christania-simone-williams",
-    "countryCode": "AUT"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/christania-simone-williams"
   },
   {
     "slug": "habiba-bayati",
-    "name": "Habiba \nBAYATI",
+    "name": "Habiba BAYATI",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/aimdgwkdi24udrz7nvza",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/aimdgwkdi24udrz7nvza",
     "description": "Visit Habiba \nBAYATI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Judo",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/habiba-bayati",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/habiba-bayati"
   },
   {
     "slug": "ayda-khorshidi",
-    "name": "Ayda\nKHORSHIDI",
+    "name": "Ayda KHORSHIDI",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/pofhsx9nbysswdyxen22",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pofhsx9nbysswdyxen22",
     "description": "Visit Ayda\nKHORSHIDI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Taekwondo",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/ayda-khorshidi",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/ayda-khorshidi"
   },
   {
     "slug": "fatemeh-keshavarz",
@@ -1965,10 +1780,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/vnp9syox4zzapdzsxyy0",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/vnp9syox4zzapdzsxyy0",
     "description": "Visit Fatemeh KESHAVARZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Weightlifting",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/fatemeh-keshavarz",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/fatemeh-keshavarz"
   },
   {
     "slug": "cristiano-ronaldo-dos-santos-aveiro",
@@ -1976,10 +1790,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/pcxgwhoweqzzhiuqbwqw",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pcxgwhoweqzzhiuqbwqw",
     "description": "Who is Cristiano Ronaldo? The Portugal football star has played for Manchester United and Juventus, is a winner of the Ballon d’Ors, Premier League and UCL. Know wins.",
-    "discipline": "Football",
-    "country": "Portugal",
-    "url": "https://www.olympics.com/en/athletes/cristiano-ronaldo-dos-santos-aveiro",
-    "countryCode": "POR"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/cristiano-ronaldo-dos-santos-aveiro"
   },
   {
     "slug": "alexandra-eala",
@@ -1987,10 +1800,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xxnyavwainsvjz0raggt",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xxnyavwainsvjz0raggt",
     "description": "Visit Alexandra EALA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Tennis",
-    "country": "Philippines",
-    "url": "https://www.olympics.com/en/athletes/alexandra-eala",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/alexandra-eala"
   },
   {
     "slug": "farhad-nourikhorjestan",
@@ -1998,32 +1810,29 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/wdbxje4i1zbolsnwcbow",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/wdbxje4i1zbolsnwcbow",
     "description": "Visit Farhad NOURIKHORJESTAN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Wrestling",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/farhad-nourikhorjestan",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/farhad-nourikhorjestan"
   },
   {
     "slug": "naomi-osaka",
-    "name": "Naomi OSAKA",
+    "name": "Naomi Osaka",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ek3hiibqr1axs95cciqi",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ek3hiibqr1axs95cciqi",
     "description": "Find out more about Naomi Osaka, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Tennis",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/naomi-osaka",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/naomi-osaka"
   },
   {
     "slug": "abolfazl-abbasipouya",
-    "name": "Abolfazl \nABBASIPOUYA",
+    "name": "Abolfazl ABBASIPOUYA",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/qwcrhceylqfjpx1ku90f",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/qwcrhceylqfjpx1ku90f",
     "description": "Visit Abolfazl \nABBASIPOUYA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Taekwondo",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/abolfazl-abbasipouya",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/abolfazl-abbasipouya"
   },
   {
     "slug": "alexander-zverev",
@@ -2031,10 +1840,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/nuub9gaimp6bp5rwg0al",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/nuub9gaimp6bp5rwg0al",
     "description": "View the Olympics.com biography for top moments, career stats, and key things to know about this athlete and their sporting achievements.",
-    "discipline": "Tennis",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/alexander-zverev",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/alexander-zverev"
   },
   {
     "slug": "mohammad-ganjkhanlou",
@@ -2042,32 +1850,29 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/pfgr5zzj6sqkereid22w",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pfgr5zzj6sqkereid22w",
     "description": "Visit Mohammad GANJKHANLOU profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cycling Road",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/mohammad-ganjkhanlou",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/mohammad-ganjkhanlou"
   },
   {
     "slug": "arman-karapetyan",
-    "name": "Arman\nKARAPETYAN",
+    "name": "Arman KARAPETYAN",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/bymjc3n6xn6k7vrcgoxj",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/bymjc3n6xn6k7vrcgoxj",
     "description": "Visit Arman\nKARAPETYAN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Wrestling",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/arman-karapetyan",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/arman-karapetyan"
   },
   {
     "slug": "mehdi-abedini",
-    "name": "Mehdi \nABEDINI",
+    "name": "Mehdi Abedini",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/gtxgh6lsovjsyne6owpd",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/gtxgh6lsovjsyne6owpd",
     "description": "Visit Mehdi \nABEDINI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/mehdi-abedini",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/mehdi-abedini"
   },
   {
     "slug": "aysa-khorshidi",
@@ -2075,21 +1880,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/itk7g7jtgoy0ykrssqtd",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/itk7g7jtgoy0ykrssqtd",
     "description": "Visit Aysa KHORSHIDI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Taekwondo",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/aysa-khorshidi",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/aysa-khorshidi"
   },
   {
     "slug": "dario-lokoro",
-    "name": "Dario\nLOKORO",
+    "name": "Dario LOKORO",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/omkblzfpuv2jmr3gtstk",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/omkblzfpuv2jmr3gtstk",
     "description": "Visit Dario\nLOKORO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/dario-lokoro",
-    "countryCode": null
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/dario-lokoro"
   },
   {
     "slug": "schmid",
@@ -2097,10 +1900,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tr4exzk1pf9yuucqaamo",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tr4exzk1pf9yuucqaamo",
     "description": "Visit Alexander SCHMID profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/schmid",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/schmid"
   },
   {
     "slug": "ali-hassan-3",
@@ -2109,9 +1911,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/nfv4syqshbcffn1lkbze",
     "description": "Visit Ali HASSAN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Somalia",
-    "url": "https://www.olympics.com/en/athletes/ali-hassan-3",
-    "countryCode": "SOM"
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/ali-hassan-3"
   },
   {
     "slug": "manon-apithy",
@@ -2119,10 +1920,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/cvc4bbklqrzk1gjepple",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/cvc4bbklqrzk1gjepple",
     "description": "Visit Manon APITHY profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Fencing",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/manon-apithy",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/manon-apithy"
   },
   {
     "slug": "raul-jimenez",
@@ -2130,10 +1930,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/w2bfkplyeucdny74rren",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/w2bfkplyeucdny74rren",
     "description": "Visit Raul JIMENEZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Mexico",
-    "url": "https://www.olympics.com/en/athletes/raul-jimenez",
-    "countryCode": "MEX"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/raul-jimenez"
   },
   {
     "slug": "tesfu-weldegebreal",
@@ -2142,9 +1941,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/rdn429prsiemkaci6m68",
     "description": "Visit Tesfu WELDEGEBREAL profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/tesfu-weldegebreal",
-    "countryCode": null
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/tesfu-weldegebreal"
   },
   {
     "slug": "ritsu-doan",
@@ -2152,10 +1950,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Ritsu DOAN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/ritsu-doan",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇯🇵 Japan",
+    "url": "https://www.olympics.com/en/athletes/ritsu-doan"
   },
   {
     "slug": "paul-foerster",
@@ -2163,10 +1960,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Paul FOERSTER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/paul-foerster",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/paul-foerster"
   },
   {
     "slug": "hannaneh-afshar",
@@ -2174,10 +1970,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/c660ydd6qeautn0flarf",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/c660ydd6qeautn0flarf",
     "description": "Visit Hannaneh AFSHAR profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Swimming",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/hannaneh-afshar",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇧🇷 Brazil",
+    "url": "https://www.olympics.com/en/athletes/hannaneh-afshar"
   },
   {
     "slug": "ayuka-suzuki",
@@ -2185,10 +1980,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/mfn6n85dfja3xuo3tzuw",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/mfn6n85dfja3xuo3tzuw",
     "description": "Visit Ayuka SUZUKI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Rhythmic Gymnastics",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/ayuka-suzuki",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/ayuka-suzuki"
   },
   {
     "slug": "aron-szilagyi",
@@ -2196,21 +1990,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fiprzlzmlaym1ocpnfee",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fiprzlzmlaym1ocpnfee",
     "description": "Visit Aron SZILAGYI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Fencing",
-    "country": "Hungary",
-    "url": "https://www.olympics.com/en/athletes/aron-szilagyi",
-    "countryCode": "HUN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/aron-szilagyi"
   },
   {
     "slug": "john-steel-hagenbuch",
     "name": "John Steel HAGENBUCH",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1780057724/primary/u1fxjgf7zap67ksx2agz",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/u1fxjgf7zap67ksx2agz",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1780057724/primary/u1fxjgf7zap67ksx2agz",
     "description": "Visit John Steel HAGENBUCH profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cross-Country Skiing",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/john-steel-hagenbuch",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/john-steel-hagenbuch"
   },
   {
     "slug": "victoria-mboko",
@@ -2218,10 +2010,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/hfxuhtbqsdnwxukdlr4v",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/hfxuhtbqsdnwxukdlr4v",
     "description": "Visit Victoria MBOKO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Tennis",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/victoria-mboko",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/victoria-mboko"
   },
   {
     "slug": "keisuke-honda",
@@ -2229,10 +2020,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Keisuke HONDA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/keisuke-honda",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/keisuke-honda"
   },
   {
     "slug": "mirra-andreeva",
@@ -2240,10 +2030,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xe3rkzxnk2ania5zxgiw",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xe3rkzxnk2ania5zxgiw",
     "description": "Visit Mirra ANDREEVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Tennis",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/mirra-andreeva",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/mirra-andreeva"
   },
   {
     "slug": "nika-prevc",
@@ -2251,10 +2040,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ryvsyjtf4ckeyjcxnh9q",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ryvsyjtf4ckeyjcxnh9q",
     "description": "Visit Nika PREVC profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Jumping",
-    "country": "Slovenia",
-    "url": "https://www.olympics.com/en/athletes/nika-prevc",
-    "countryCode": "SLO"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/nika-prevc"
   },
   {
     "slug": "paul-seixas",
@@ -2262,21 +2050,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/odjhfuvktab0mgifwxem",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/odjhfuvktab0mgifwxem",
     "description": "Visit Paul SEIXAS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cycling Road",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/paul-seixas",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/paul-seixas"
   },
   {
     "slug": "leroy-watson",
-    "name": "Leroy DENVER WATSON",
+    "name": "Leroy WATSON",
     "image": null,
     "thumbnail": null,
     "description": "Visit Leroy DENVER WATSON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Archery",
-    "country": "Great Britain",
-    "url": "https://www.olympics.com/en/athletes/leroy-watson",
-    "countryCode": "GBR"
+    "discipline": "Athletics",
+    "country": "🇬🇧 Great Britain",
+    "url": "https://www.olympics.com/en/athletes/leroy-watson"
   },
   {
     "slug": "yuka-suzuki",
@@ -2285,9 +2071,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dptxkgxewznx9rdkverc",
     "description": "Visit Yuka SUZUKI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/yuka-suzuki",
-    "countryCode": "JPN"
+    "country": "🇯🇵 Japan",
+    "url": "https://www.olympics.com/en/athletes/yuka-suzuki"
   },
   {
     "slug": "niko-kytosaho",
@@ -2295,10 +2080,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ort95gy2ldztei6nb2pg",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ort95gy2ldztei6nb2pg",
     "description": "Visit Niko KYTOSAHO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Jumping",
-    "country": "Finland",
-    "url": "https://www.olympics.com/en/athletes/niko-kytosaho",
-    "countryCode": "FIN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/niko-kytosaho"
   },
   {
     "slug": "moon-soo-kim",
@@ -2306,10 +2090,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Moon-Soo KIM profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/moon-soo-kim",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇰🇷 Korea",
+    "url": "https://www.olympics.com/en/athletes/moon-soo-kim"
   },
   {
     "slug": "igor-boraska",
@@ -2317,10 +2100,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Igor BORASKA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Croatia",
-    "url": "https://www.olympics.com/en/athletes/igor-boraska",
-    "countryCode": "CRO"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/igor-boraska"
   },
   {
     "slug": "kseniia-korzhova",
@@ -2328,10 +2110,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dhyt3rbihkhnoxv1mezj",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dhyt3rbihkhnoxv1mezj",
     "description": "Visit Kseniia KORZHOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/kseniia-korzhova",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/kseniia-korzhova"
   },
   {
     "slug": "marie-kaldvee",
@@ -2339,10 +2120,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/bslotclagyekydhvgp29",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/bslotclagyekydhvgp29",
     "description": "Visit Marie KALDVEE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Curling",
-    "country": "Estonia",
-    "url": "https://www.olympics.com/en/athletes/marie-kaldvee",
-    "countryCode": "EST"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/marie-kaldvee"
   },
   {
     "slug": "florian-lipowitz",
@@ -2350,10 +2130,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/jo3h9c9qaexnrci08cwl",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/jo3h9c9qaexnrci08cwl",
     "description": "Visit Florian LIPOWITZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cycling Road",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/florian-lipowitz",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/florian-lipowitz"
   },
   {
     "slug": "mao-asada",
@@ -2361,10 +2140,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/wsxeyerpldpedgnfyp0g",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/wsxeyerpldpedgnfyp0g",
     "description": "Visit Mao ASADA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/mao-asada",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/mao-asada"
   },
   {
     "slug": "fermin-lopez",
@@ -2372,10 +2150,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/iubmr0vvjdvj7gxm3vax",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/iubmr0vvjdvj7gxm3vax",
     "description": "Visit Fermin LOPEZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/fermin-lopez",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/fermin-lopez"
   },
   {
     "slug": "teun-boer",
@@ -2383,10 +2160,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/hgdjoflxmfu8pakioszx",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/hgdjoflxmfu8pakioszx",
     "description": "Visit Teun BOER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Netherlands",
-    "url": "https://www.olympics.com/en/athletes/teun-boer",
-    "countryCode": "NED"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/teun-boer"
   },
   {
     "slug": "josep-guardiola-sala",
@@ -2394,10 +2170,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/twvcixlwi0gankad2u1l",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/twvcixlwi0gankad2u1l",
     "description": "Visit Josep GUARDIOLA SALA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/josep-guardiola-sala",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇦🇺 Australia",
+    "url": "https://www.olympics.com/en/athletes/josep-guardiola-sala"
   },
   {
     "slug": "satymkul-dzhumanazarov",
@@ -2406,9 +2181,8 @@ module.exports = [
     "thumbnail": null,
     "description": "Visit Satymkul DZHUMANAZAROV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "USSR",
-    "url": "https://www.olympics.com/en/athletes/satymkul-dzhumanazarov",
-    "countryCode": "URS"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/satymkul-dzhumanazarov"
   },
   {
     "slug": "luis-enrique-martinez-garcia",
@@ -2416,10 +2190,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/vvsnykgaae3vtcogq4wt",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/vvsnykgaae3vtcogq4wt",
     "description": "Visit Luis Enrique MARTINEZ GARCIA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/luis-enrique-martinez-garcia",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/luis-enrique-martinez-garcia"
   },
   {
     "slug": "neymar-da-silva-santos-junior",
@@ -2427,10 +2200,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ptry0ezl12okntst70gi",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ptry0ezl12okntst70gi",
     "description": "Visit Neymar profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Brazil",
-    "url": "https://www.olympics.com/en/athletes/neymar-da-silva-santos-junior",
-    "countryCode": "BRA"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/neymar-da-silva-santos-junior"
   },
   {
     "slug": "denis-ors",
@@ -2438,10 +2210,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ldzbxltrd8uehjwzmqls",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ldzbxltrd8uehjwzmqls",
     "description": "Visit Denis ORS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Türkiye",
-    "url": "https://www.olympics.com/en/athletes/denis-ors",
-    "countryCode": "TUR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/denis-ors"
   },
   {
     "slug": "teodors-blugers",
@@ -2449,10 +2220,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/pgfubrp1vxxrcuxldvyv",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pgfubrp1vxxrcuxldvyv",
     "description": "Visit Teodors BLUGERS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "Latvia",
-    "url": "https://www.olympics.com/en/athletes/teodors-blugers",
-    "countryCode": "LAT"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/teodors-blugers"
   },
   {
     "slug": "yi-fan-jia",
@@ -2460,10 +2230,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/yxlbhxahhnalny6ho3ya",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/yxlbhxahhnalny6ho3ya",
     "description": "Visit Yi Fan JIA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Badminton",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/yi-fan-jia",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "country": "🇨🇳 China",
+    "url": "https://www.olympics.com/en/athletes/yi-fan-jia"
   },
   {
     "slug": "ivan-posashkov",
@@ -2471,10 +2240,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/f9gqwm60yzhoxrysysds",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/f9gqwm60yzhoxrysysds",
     "description": "Visit Ivan POSASHKOV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/ivan-posashkov",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/ivan-posashkov"
   },
   {
     "slug": "simon-efimov",
@@ -2482,21 +2250,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/rdviixiha6lill5bwned",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/rdviixiha6lill5bwned",
     "description": "Visit Simon EFIMOV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/simon-efimov",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/simon-efimov"
   },
   {
     "slug": "matthew-tkachuk",
-    "name": "Matthew TKACHUK",
+    "name": "Matthew Tkachuk",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/h4v597eo33bvezobvlmv",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/h4v597eo33bvezobvlmv",
     "description": "Visit Matthew TKACHUK profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/matthew-tkachuk",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/matthew-tkachuk"
   },
   {
     "slug": "friso-emons",
@@ -2504,10 +2270,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ydwkj0gcnvuovemybty3",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ydwkj0gcnvuovemybty3",
     "description": "Visit Friso EMONS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Netherlands",
-    "url": "https://www.olympics.com/en/athletes/friso-emons",
-    "countryCode": "NED"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/friso-emons"
   },
   {
     "slug": "anastasiia-semenova",
@@ -2515,10 +2280,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ouhzqrsedhpfuyl4rh7u",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ouhzqrsedhpfuyl4rh7u",
     "description": "Visit Anastasiia SEMENOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/anastasiia-semenova",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/anastasiia-semenova"
   },
   {
     "slug": "ji-woo-park",
@@ -2526,10 +2290,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/t7igt7zhcz4dti9iovem",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/t7igt7zhcz4dti9iovem",
     "description": "Visit Ji Woo PARK profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/ji-woo-park",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇨🇳 China",
+    "url": "https://www.olympics.com/en/athletes/ji-woo-park"
   },
   {
     "slug": "keith-tkachuk",
@@ -2537,10 +2300,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ifm3xwmuigsrrramqdys",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ifm3xwmuigsrrramqdys",
     "description": "Visit Keith TKACHUK profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/keith-tkachuk",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/keith-tkachuk"
   },
   {
     "slug": "natalia-sidorowicz",
@@ -2548,10 +2310,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/x2xclgxler16cztjfjgu",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/x2xclgxler16cztjfjgu",
     "description": "Visit Natalia SIDOROWICZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Biathlon",
-    "country": "Poland",
-    "url": "https://www.olympics.com/en/athletes/natalia-sidorowicz",
-    "countryCode": "POL"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/natalia-sidorowicz"
   },
   {
     "slug": "daria-olesik",
@@ -2559,10 +2320,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tku3ubswngxhq1r78lkg",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tku3ubswngxhq1r78lkg",
     "description": "Visit Daria OLESIK profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Luge",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/daria-olesik",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/daria-olesik"
   },
   {
     "slug": "paes-dr-vaes",
@@ -2570,10 +2330,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/wnxtv3krewidwwdubfcc",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/wnxtv3krewidwwdubfcc",
     "description": "Vece Paes was an Indian hockey player who won bronze medals at the 1972 Olympics and 1971 World Cup in his career. Know his full profile, biography and medal list.",
-    "discipline": "Olympic Sport",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/paes-dr-vaes",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/paes-dr-vaes"
   },
   {
     "slug": "joonas-korpisalo",
@@ -2581,10 +2340,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Joonas KORPISALO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "Finland",
-    "url": "https://www.olympics.com/en/athletes/joonas-korpisalo",
-    "countryCode": "FIN"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/joonas-korpisalo"
   },
   {
     "slug": "kamryn-lute",
@@ -2592,10 +2350,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fzvkazfjlozqx6jure4v",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fzvkazfjlozqx6jure4v",
     "description": "Visit Kamryn LUTE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/kamryn-lute",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/kamryn-lute"
   },
   {
     "slug": "suzuka-maeda",
@@ -2603,10 +2360,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/c2fu3b1fstvcdwwwpzbx",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/c2fu3b1fstvcdwwwpzbx",
     "description": "Visit Suzuka MAEDA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/suzuka-maeda",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/suzuka-maeda"
   },
   {
     "slug": "malte-setkov",
@@ -2614,10 +2370,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Malte SETKOV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "Denmark",
-    "url": "https://www.olympics.com/en/athletes/malte-setkov",
-    "countryCode": "DEN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/malte-setkov"
   },
   {
     "slug": "yemisi-mabry",
@@ -2626,9 +2381,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/yfi5vijxvzgjzojgxtwy",
     "description": "Visit Yemisi MABRY profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/yemisi-mabry",
-    "countryCode": "GER"
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/yemisi-mabry"
   },
   {
     "slug": "brady-tkachuk",
@@ -2636,10 +2390,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/wka7rhbzfwr47rpjwoag",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/wka7rhbzfwr47rpjwoag",
     "description": "Visit Brady TKACHUK profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/brady-tkachuk",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/brady-tkachuk"
   },
   {
     "slug": "tomas-mikyska",
@@ -2647,10 +2400,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fjjj00gok3d1d5ywpzaw",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fjjj00gok3d1d5ywpzaw",
     "description": "Visit Tomas MIKYSKA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Biathlon",
-    "country": "Czechia",
-    "url": "https://www.olympics.com/en/athletes/tomas-mikyska",
-    "countryCode": "CZE"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/tomas-mikyska"
   },
   {
     "slug": "ronwen-williams",
@@ -2658,10 +2410,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dmvwzlucunomnvwx2oiv",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dmvwzlucunomnvwx2oiv",
     "description": "Visit Ronwen WILLIAMS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "South Africa",
-    "url": "https://www.olympics.com/en/athletes/ronwen-williams",
-    "countryCode": "RSA"
+    "discipline": "Athletics",
+    "country": "🇯🇵 Japan",
+    "url": "https://www.olympics.com/en/athletes/ronwen-williams"
   },
   {
     "slug": "clayton-declemente",
@@ -2669,10 +2420,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/g2fpoc1pnnal50zrd7vs",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/g2fpoc1pnnal50zrd7vs",
     "description": "Visit Clayton DECLEMENTE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/clayton-declemente",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/clayton-declemente"
   },
   {
     "slug": "jingru-yang",
@@ -2680,10 +2430,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/o2nn4wurm2zvgur1pbcj",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/o2nn4wurm2zvgur1pbcj",
     "description": "Visit Jingru YANG profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/jingru-yang",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/jingru-yang"
   },
   {
     "slug": "ying-chu-chen",
@@ -2691,10 +2440,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dbxsn65je2xicydh8vcj",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dbxsn65je2xicydh8vcj",
     "description": "Visit Ying-Chu CHEN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Chinese Taipei",
-    "url": "https://www.olympics.com/en/athletes/ying-chu-chen",
-    "countryCode": "TPE"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/ying-chu-chen"
   },
   {
     "slug": "maja-dora-somodi",
@@ -2702,10 +2450,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/uwmhaual43db3mmnntzm",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/uwmhaual43db3mmnntzm",
     "description": "Visit Maja Dora SOMODI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Hungary",
-    "url": "https://www.olympics.com/en/athletes/maja-dora-somodi",
-    "countryCode": "HUN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/maja-dora-somodi"
   },
   {
     "slug": "tsz-fung-kwok",
@@ -2713,10 +2460,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/z0lubfffjtm31tsabk0a",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/z0lubfffjtm31tsabk0a",
     "description": "Visit Tsz Fung KWOK profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Hong Kong, China",
-    "url": "https://www.olympics.com/en/athletes/tsz-fung-kwok",
-    "countryCode": "HKG"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/tsz-fung-kwok"
   },
   {
     "slug": "shomu-sasaki",
@@ -2724,10 +2470,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/atbcyx33zfhfq8jonayl",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/atbcyx33zfhfq8jonayl",
     "description": "Visit Shomu SASAKI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/shomu-sasaki",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/shomu-sasaki"
   },
   {
     "slug": "lorenzo-previtali",
@@ -2735,10 +2480,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ywyqy3z9xqvyspwoq9oz",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ywyqy3z9xqvyspwoq9oz",
     "description": "Visit Lorenzo PREVITALI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Italy",
-    "url": "https://www.olympics.com/en/athletes/lorenzo-previtali",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/lorenzo-previtali"
   },
   {
     "slug": "sophie-shirin-warmuth",
@@ -2746,10 +2490,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/meomujyoni4srcakqxbp",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/meomujyoni4srcakqxbp",
     "description": "Visit Sophie Shirin WARMUTH profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/sophie-shirin-warmuth",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/sophie-shirin-warmuth"
   },
   {
     "slug": "aoi-watanabe",
@@ -2757,10 +2500,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/cxhphaj1xd9nt2jnblf6",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/cxhphaj1xd9nt2jnblf6",
     "description": "Visit Aoi WATANABE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/aoi-watanabe",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/aoi-watanabe"
   },
   {
     "slug": "dohee-noh",
@@ -2768,10 +2510,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ptpoy1tpk9yf7wzuhthh",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ptpoy1tpk9yf7wzuhthh",
     "description": "Visit Dohee NOH profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/dohee-noh",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/dohee-noh"
   },
   {
     "slug": "kazuya-yamada",
@@ -2779,10 +2520,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/insnznp1tytzclkljfiz",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/insnznp1tytzclkljfiz",
     "description": "Visit Kazuya YAMADA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/kazuya-yamada",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/kazuya-yamada"
   },
   {
     "slug": "dong-min-shin",
@@ -2790,10 +2530,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/pocnr7hn0krojuak61it",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pocnr7hn0krojuak61it",
     "description": "Visit Dong Min SHIN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/dong-min-shin",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/dong-min-shin"
   },
   {
     "slug": "conor-mcdermott-mostowy",
@@ -2801,10 +2540,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/mclk09dy92cegfula3fp",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/mclk09dy92cegfula3fp",
     "description": "Visit Conor MCDERMOTT-MOSTOWY profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/conor-mcdermott-mostowy",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/conor-mcdermott-mostowy"
   },
   {
     "slug": "kyungmin-koo",
@@ -2812,10 +2550,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/wfyuu6v1pwpqolnpeo52",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/wfyuu6v1pwpqolnpeo52",
     "description": "Visit Kyungmin KOO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/kyungmin-koo",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/kyungmin-koo"
   },
   {
     "slug": "merel-conijn",
@@ -2823,10 +2560,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/vyvkajiqyqkgmpled5vq",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/vyvkajiqyqkgmpled5vq",
     "description": "Visit Merel CONIJN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Netherlands",
-    "url": "https://www.olympics.com/en/athletes/merel-conijn",
-    "countryCode": "NED"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/merel-conijn"
   },
   {
     "slug": "arina-ilyachshenko",
@@ -2834,10 +2570,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dou0g4e4s9zpwhwtdxvp",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dou0g4e4s9zpwhwtdxvp",
     "description": "Visit Arina ILYACHSHENKO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Kazakhstan",
-    "url": "https://www.olympics.com/en/athletes/arina-ilyachshenko",
-    "countryCode": "KAZ"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/arina-ilyachshenko"
   },
   {
     "slug": "eva-grenouilloux",
@@ -2845,10 +2580,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/clwcpjxnmyqvfjczvwic",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/clwcpjxnmyqvfjczvwic",
     "description": "Visit Eva GRENOUILLOUX profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/eva-grenouilloux",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/eva-grenouilloux"
   },
   {
     "slug": "stijn-van-de-bunt",
@@ -2856,10 +2590,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/gadmjoqzkm2mc8rbz28z",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/gadmjoqzkm2mc8rbz28z",
     "description": "Visit Stijn VAN DE BUNT profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Netherlands",
-    "url": "https://www.olympics.com/en/athletes/stijn-van-de-bunt",
-    "countryCode": "NED"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/stijn-van-de-bunt"
   },
   {
     "slug": "mirei-nakashima",
@@ -2867,10 +2600,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/baoprk8liaue6yp6c4ig",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/baoprk8liaue6yp6c4ig",
     "description": "Visit Mirei NAKASHIMA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/mirei-nakashima",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/mirei-nakashima"
   },
   {
     "slug": "katarina-buric",
@@ -2878,10 +2610,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/spewwjodavskda3wlv4v",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/spewwjodavskda3wlv4v",
     "description": "Visit Katarina BURIC profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Croatia",
-    "url": "https://www.olympics.com/en/athletes/katarina-buric",
-    "countryCode": "CRO"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/katarina-buric"
   },
   {
     "slug": "gilli-kim",
@@ -2889,10 +2620,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ccvzvhyjuhqhem1vgaic",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ccvzvhyjuhqhem1vgaic",
     "description": "Visit Gilli KIM profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/gilli-kim",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/gilli-kim"
   },
   {
     "slug": "hana-noake",
@@ -2900,10 +2630,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dh8yhhgisqyst8ajwnn5",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dh8yhhgisqyst8ajwnn5",
     "description": "Visit Hana NOAKE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/hana-noake",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/hana-noake"
   },
   {
     "slug": "jongun-rim",
@@ -2911,10 +2640,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/cbdkonu7fprgzplc4jne",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/cbdkonu7fprgzplc4jne",
     "description": "Visit Jongun RIM profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/jongun-rim",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/jongun-rim"
   },
   {
     "slug": "nahyun-lee",
@@ -2922,10 +2650,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/zn8c2ubdlpyphfolavig",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/zn8c2ubdlpyphfolavig",
     "description": "Visit Nahyun LEE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/nahyun-lee",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/nahyun-lee"
   },
   {
     "slug": "sigurd-henriksen",
@@ -2933,10 +2660,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/kp8g9voxrupntfie58df",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/kp8g9voxrupntfie58df",
     "description": "Visit Sigurd HENRIKSEN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Norway",
-    "url": "https://www.olympics.com/en/athletes/sigurd-henriksen",
-    "countryCode": "NOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/sigurd-henriksen"
   },
   {
     "slug": "berenice-comby",
@@ -2944,10 +2670,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/c8diclnjwlxab3m68cjv",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/c8diclnjwlxab3m68cjv",
     "description": "Visit Berenice COMBY profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/berenice-comby",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/berenice-comby"
   },
   {
     "slug": "william-dandjinou",
@@ -2955,10 +2680,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/lxhis8komoiptdq4s1gt",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/lxhis8komoiptdq4s1gt",
     "description": "Visit William DANDJINOU profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/william-dandjinou",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/william-dandjinou"
   },
   {
     "slug": "xiaojun-lin",
@@ -2966,10 +2690,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fllj5onrecpt2q5xp8mt",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fllj5onrecpt2q5xp8mt",
     "description": "Visit Xiaojun LIN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/xiaojun-lin",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/xiaojun-lin"
   },
   {
     "slug": "anna-molnar",
@@ -2977,10 +2700,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/r1nifxvobibvq4fn6xzh",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/r1nifxvobibvq4fn6xzh",
     "description": "Visit Anna MOLNAR profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Austria",
-    "url": "https://www.olympics.com/en/athletes/anna-molnar",
-    "countryCode": "AUT"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/anna-molnar"
   },
   {
     "slug": "greta-myers",
@@ -2988,10 +2710,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fluulrhs16amcr8snwkf",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fluulrhs16amcr8snwkf",
     "description": "Visit Greta MYERS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/greta-myers",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/greta-myers"
   },
   {
     "slug": "taiyo-nonomura",
@@ -2999,10 +2720,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tl4qu3oo6xpgqwclmeu1",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tl4qu3oo6xpgqwclmeu1",
     "description": "Visit Taiyo NONOMURA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/taiyo-nonomura",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/taiyo-nonomura"
   },
   {
     "slug": "daniel-tiborcz",
@@ -3010,10 +2730,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fpih7oduiv7we8fomfqy",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fpih7oduiv7we8fomfqy",
     "description": "Visit Daniel TIBORCZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Hungary",
-    "url": "https://www.olympics.com/en/athletes/daniel-tiborcz",
-    "countryCode": "HUN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/daniel-tiborcz"
   },
   {
     "slug": "anna-boersma",
@@ -3021,10 +2740,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/v4dv6r4yhg6ztgz3rtba",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/v4dv6r4yhg6ztgz3rtba",
     "description": "Visit Anna BOERSMA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Netherlands",
-    "url": "https://www.olympics.com/en/athletes/anna-boersma",
-    "countryCode": "NED"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/anna-boersma"
   },
   {
     "slug": "tijmen-snel",
@@ -3032,10 +2750,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ziueuzhpqlakrtcjrnkl",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ziueuzhpqlakrtcjrnkl",
     "description": "Visit Tijmen SNEL profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Netherlands",
-    "url": "https://www.olympics.com/en/athletes/tijmen-snel",
-    "countryCode": "NED"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/tijmen-snel"
   },
   {
     "slug": "etienne-bastier",
@@ -3043,21 +2760,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/so1lie0puwjtp6dqeplk",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/so1lie0puwjtp6dqeplk",
     "description": "Visit Etienne BASTIER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/etienne-bastier",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/etienne-bastier"
   },
   {
     "slug": "soyeon-lee",
-    "name": "Soyeon LEE",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/e1quabkwfjzcaln0weif",
-    "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/e1quabkwfjzcaln0weif",
-    "description": "Visit Soyeon LEE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/soyeon-lee",
-    "countryCode": "KOR"
+    "name": "Soyeon Lee",
+    "image": null,
+    "thumbnail": null,
+    "description": "Official athlete registered in the Olympic Games database.",
+    "discipline": "Olympic Sport",
+    "country": "International",
+    "url": "https://www.olympics.com/en/athletes/soyeon-lee"
   },
   {
     "slug": "bu-luer",
@@ -3065,10 +2780,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xdp9bjfc6zqp0su5u4dr",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xdp9bjfc6zqp0su5u4dr",
     "description": "Visit BU LUER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/bu-luer",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/bu-luer"
   },
   {
     "slug": "marianna-jagercikova",
@@ -3076,10 +2790,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/icdcyjoz5zj5dxgj35fi",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/icdcyjoz5zj5dxgj35fi",
     "description": "Visit Marianna JAGERCIKOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "Slovakia",
-    "url": "https://www.olympics.com/en/athletes/marianna-jagercikova",
-    "countryCode": "SVK"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/marianna-jagercikova"
   },
   {
     "slug": "tate-frantz",
@@ -3087,10 +2800,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xvwp1u6vmzuwj09s4k3x",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xvwp1u6vmzuwj09s4k3x",
     "description": "Visit Tate FRANTZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Jumping",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/tate-frantz",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/tate-frantz"
   },
   {
     "slug": "sujung-hong",
@@ -3098,10 +2810,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xukwghtiochxzfulxdfi",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xukwghtiochxzfulxdfi",
     "description": "Visit Sujung HONG profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Skeleton",
-    "country": "Republic of Korea",
-    "url": "https://www.olympics.com/en/athletes/sujung-hong",
-    "countryCode": "KOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/sujung-hong"
   },
   {
     "slug": "anna-gibson",
@@ -3109,10 +2820,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/b4esdtysud4xtdqczzyd",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/b4esdtysud4xtdqczzyd",
     "description": "Visit Anna GIBSON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/anna-gibson",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/anna-gibson"
   },
   {
     "slug": "pablo-giner-dalmasso",
@@ -3120,10 +2830,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/lmdi9oggbjjsqlxinqwl",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/lmdi9oggbjjsqlxinqwl",
     "description": "Visit Pablo GINER DALMASSO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/pablo-giner-dalmasso",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/pablo-giner-dalmasso"
   },
   {
     "slug": "jon-kistler",
@@ -3131,10 +2840,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/jqckosfzvc39kexqpdki",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/jqckosfzvc39kexqpdki",
     "description": "Visit Jon KISTLER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "Switzerland",
-    "url": "https://www.olympics.com/en/athletes/jon-kistler",
-    "countryCode": "SUI"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/jon-kistler"
   },
   {
     "slug": "gabriel-gross",
@@ -3142,10 +2850,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/jxtyvys3ygbdke2rxapo",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/jxtyvys3ygbdke2rxapo",
     "description": "Visit Gabriel GROSS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/gabriel-gross",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/gabriel-gross"
   },
   {
     "slug": "lara-hamilton",
@@ -3153,10 +2860,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/gprx7mstfyd7afrfmroc",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/gprx7mstfyd7afrfmroc",
     "description": "Visit Lara HAMILTON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "Australia",
-    "url": "https://www.olympics.com/en/athletes/lara-hamilton",
-    "countryCode": "AUS"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/lara-hamilton"
   },
   {
     "slug": "cameron-smith-x1518",
@@ -3164,10 +2870,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dhnx9c5rrw5vgpaorip8",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dhnx9c5rrw5vgpaorip8",
     "description": "Visit Cameron SMITH profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "United States of America",
-    "url": "https://www.olympics.com/en/athletes/cameron-smith-x1518",
-    "countryCode": "USA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/cameron-smith-x1518"
   },
   {
     "slug": "indra-medard",
@@ -3175,10 +2880,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/bz4opwwgqb88pzl1pgi2",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/bz4opwwgqb88pzl1pgi2",
     "description": "Visit Indra MEDARD profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Belgium",
-    "url": "https://www.olympics.com/en/athletes/indra-medard",
-    "countryCode": "BEL"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/indra-medard"
   },
   {
     "slug": "marianne-fatton",
@@ -3186,10 +2890,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tvflmvuvulbb0ena6xhv",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tvflmvuvulbb0ena6xhv",
     "description": "Visit Marianne FATTON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "Switzerland",
-    "url": "https://www.olympics.com/en/athletes/marianne-fatton",
-    "countryCode": "SUI"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/marianne-fatton"
   },
   {
     "slug": "wenhao-li-x0537",
@@ -3197,10 +2900,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fzt7anquw6lqkngy0okj",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fzt7anquw6lqkngy0okj",
     "description": "Visit Wenhao LI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/wenhao-li-x0537",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/wenhao-li-x0537"
   },
   {
     "slug": "helena-euringer",
@@ -3208,10 +2910,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ej34inwvfr2qzaeljl5v",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ej34inwvfr2qzaeljl5v",
     "description": "Visit Helena EURINGER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/helena-euringer",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/helena-euringer"
   },
   {
     "slug": "jeannine-rosner",
@@ -3219,10 +2920,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/kjcqbxeebzspdlsir7t6",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/kjcqbxeebzspdlsir7t6",
     "description": "Visit Jeannine ROSNER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Austria",
-    "url": "https://www.olympics.com/en/athletes/jeannine-rosner",
-    "countryCode": "AUT"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/jeannine-rosner"
   },
   {
     "slug": "anders-johnson-x5256",
@@ -3230,10 +2930,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xdegmljgdx4f44bns0o0",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xdegmljgdx4f44bns0o0",
     "description": "Visit Anders JOHNSON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/anders-johnson-x5256",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/anders-johnson-x5256"
   },
   {
     "slug": "maja-kovacic",
@@ -3241,10 +2940,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/opt1gkdphjqekfbcoknu",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/opt1gkdphjqekfbcoknu",
     "description": "Visit Maja KOVACIC profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Jumping",
-    "country": "Slovenia",
-    "url": "https://www.olympics.com/en/athletes/maja-kovacic",
-    "countryCode": "SLO"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/maja-kovacic"
   },
   {
     "slug": "jan-elantkowski",
@@ -3252,10 +2950,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/aoib6yhwwgylvpbkcywb",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/aoib6yhwwgylvpbkcywb",
     "description": "Visit Jan ELANTKOWSKI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "Poland",
-    "url": "https://www.olympics.com/en/athletes/jan-elantkowski",
-    "countryCode": "POL"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/jan-elantkowski"
   },
   {
     "slug": "felix-trunz",
@@ -3263,10 +2960,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dwgcyytcbajx8azmhxb4",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dwgcyytcbajx8azmhxb4",
     "description": "Visit Felix TRUNZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Jumping",
-    "country": "Switzerland",
-    "url": "https://www.olympics.com/en/athletes/felix-trunz",
-    "countryCode": "SUI"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/felix-trunz"
   },
   {
     "slug": "jingziqian-wang",
@@ -3274,10 +2970,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/z9ubxegk2pbelauuguef",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/z9ubxegk2pbelauuguef",
     "description": "Visit Jingziqian WANG profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/jingziqian-wang",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/jingziqian-wang"
   },
   {
     "slug": "tatjana-paller",
@@ -3285,10 +2980,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ontqiqnclqryrnyq4s6k",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ontqiqnclqryrnyq4s6k",
     "description": "Visit Tatjana PALLER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/tatjana-paller",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/tatjana-paller"
   },
   {
     "slug": "josie-hofmann",
@@ -3296,10 +2990,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/frhv2anm3vdfz424bzns",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/frhv2anm3vdfz424bzns",
     "description": "Visit Josie HOFMANN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/josie-hofmann",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/josie-hofmann"
   },
   {
     "slug": "fridtjof-petzold",
@@ -3307,10 +3000,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/m0ftrjorpcb35q33p4el",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/m0ftrjorpcb35q33p4el",
     "description": "Visit Fridtjof PETZOLD profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/fridtjof-petzold",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/fridtjof-petzold"
   },
   {
     "slug": "wenhao-chen-x6425",
@@ -3318,10 +3010,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/adshv9as0d47grndjcgd",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/adshv9as0d47grndjcgd",
     "description": "Visit Wenhao CHEN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Skeleton",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/wenhao-chen-x6425",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/wenhao-chen-x6425"
   },
   {
     "slug": "alessandra-fumagalli",
@@ -3329,10 +3020,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/rbugt7vgezbiy6odub2w",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/rbugt7vgezbiy6odub2w",
     "description": "Visit Alessandra FUMAGALLI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Skeleton",
-    "country": "Italy",
-    "url": "https://www.olympics.com/en/athletes/alessandra-fumagalli",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/alessandra-fumagalli"
   },
   {
     "slug": "hans-inge-klette",
@@ -3340,10 +3030,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/b3fme8jj62aq7sdbcblc",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/b3fme8jj62aq7sdbcblc",
     "description": "Visit Hans-Inge KLETTE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "Norway",
-    "url": "https://www.olympics.com/en/athletes/hans-inge-klette",
-    "countryCode": "NOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/hans-inge-klette"
   },
   {
     "slug": "qinwei-lin",
@@ -3351,10 +3040,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/m4jbepn5s2gym9tt0ejv",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/m4jbepn5s2gym9tt0ejv",
     "description": "Visit Qinwei LIN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Skeleton",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/qinwei-lin",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/qinwei-lin"
   },
   {
     "slug": "rose-laliberte-roy",
@@ -3362,10 +3050,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/mmdbekbt1v7bupssvtno",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/mmdbekbt1v7bupssvtno",
     "description": "Visit Rose LALIBERTE-ROY profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/rose-laliberte-roy",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/rose-laliberte-roy"
   },
   {
     "slug": "michele-boscacci",
@@ -3373,10 +3060,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tixkyaydci2f77yif4l2",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tixkyaydci2f77yif4l2",
     "description": "Visit Michele BOSCACCI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "Italy",
-    "url": "https://www.olympics.com/en/athletes/michele-boscacci",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/michele-boscacci"
   },
   {
     "slug": "emils-indriksons",
@@ -3384,10 +3070,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/srzvpk9wmudxcx35c2c9",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/srzvpk9wmudxcx35c2c9",
     "description": "Visit Emils INDRIKSONS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Skeleton",
-    "country": "Latvia",
-    "url": "https://www.olympics.com/en/athletes/emils-indriksons",
-    "countryCode": "LAT"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/emils-indriksons"
   },
   {
     "slug": "cidan-yuzhen",
@@ -3395,10 +3080,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/w6yp4vidv2hgcilk4cvc",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/w6yp4vidv2hgcilk4cvc",
     "description": "Visit CIDAN YUZHEN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Mountaineering",
-    "country": "People's Republic of China",
-    "url": "https://www.olympics.com/en/athletes/cidan-yuzhen",
-    "countryCode": "CHN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/cidan-yuzhen"
   },
   {
     "slug": "mihnea-alexandru-spulber",
@@ -3406,10 +3090,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/gfm8wpygwbfwhq3qyt7v",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/gfm8wpygwbfwhq3qyt7v",
     "description": "Visit Mihnea Alexandru SPULBER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Jumping",
-    "country": "Romania",
-    "url": "https://www.olympics.com/en/athletes/mihnea-alexandru-spulber",
-    "countryCode": "ROU"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/mihnea-alexandru-spulber"
   },
   {
     "slug": "cedrick-brunet",
@@ -3417,10 +3100,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/lwglexaxdwl7ok3yfhmi",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/lwglexaxdwl7ok3yfhmi",
     "description": "Visit Cedrick BRUNET profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/cedrick-brunet",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/cedrick-brunet"
   },
   {
     "slug": "freya-tarbit",
@@ -3428,10 +3110,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/chzc87a5gj0qf1xykkgf",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/chzc87a5gj0qf1xykkgf",
     "description": "Visit Freya TARBIT profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Skeleton",
-    "country": "Great Britain",
-    "url": "https://www.olympics.com/en/athletes/freya-tarbit",
-    "countryCode": "GBR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/freya-tarbit"
   },
   {
     "slug": "germain-deschamps",
@@ -3439,21 +3120,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/r6c93k5hosblysvf61j5",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/r6c93k5hosblysvf61j5",
     "description": "Visit Germain DESCHAMPS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/germain-deschamps",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/germain-deschamps"
   },
   {
     "slug": "kira-maria-kapustikova",
-    "name": "Kira Maria KAPUSTIKOVA",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/w3fzj9ip5qtbhdukx3n9",
-    "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/w3fzj9ip5qtbhdukx3n9",
-    "description": "Visit Kira Maria KAPUSTIKOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Jumping",
-    "country": "Slovakia",
-    "url": "https://www.olympics.com/en/athletes/kira-maria-kapustikova",
-    "countryCode": "SVK"
+    "name": "Kira Maria Kapustikova",
+    "image": null,
+    "thumbnail": null,
+    "description": "Official athlete registered in the Olympic Games database.",
+    "discipline": "Olympic Sport",
+    "country": "International",
+    "url": "https://www.olympics.com/en/athletes/kira-maria-kapustikova"
   },
   {
     "slug": "alice-philbert",
@@ -3461,10 +3140,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/x3lrjd4lixufounshw20",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/x3lrjd4lixufounshw20",
     "description": "Visit Alice PHILBERT profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/alice-philbert",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/alice-philbert"
   },
   {
     "slug": "alice-robinson",
@@ -3472,10 +3150,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ucvo2ls3e9n0hwnnt4dj",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ucvo2ls3e9n0hwnnt4dj",
     "description": "Visit Alice ROBINSON profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "New Zealand",
-    "url": "https://www.olympics.com/en/athletes/alice-robinson",
-    "countryCode": "NZL"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/alice-robinson"
   },
   {
     "slug": "alisa-glinka",
@@ -3483,10 +3160,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/rsmtc8x2xjsihvtrkg9w",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/rsmtc8x2xjsihvtrkg9w",
     "description": "Visit Alisa GLINKA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Equestrian",
-    "country": "Republic of Moldova",
-    "url": "https://www.olympics.com/en/athletes/alisa-glinka",
-    "countryCode": "MDA"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/alisa-glinka"
   },
   {
     "slug": "naima-moreira-laliberte",
@@ -3494,10 +3170,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/zazw6bvhnh05xo8rnheb",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/zazw6bvhnh05xo8rnheb",
     "description": "Visit Naima MOREIRA LALIBERTE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Equestrian",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/naima-moreira-laliberte",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇨🇦 Canada",
+    "url": "https://www.olympics.com/en/athletes/naima-moreira-laliberte"
   },
   {
     "slug": "muhammed-ali-bedir",
@@ -3505,10 +3180,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fiax7iz5qrdxbpybjzhi",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fiax7iz5qrdxbpybjzhi",
     "description": "Visit Muhammed Ali BEDIR profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ski Jumping",
-    "country": "Türkiye",
-    "url": "https://www.olympics.com/en/athletes/muhammed-ali-bedir",
-    "countryCode": "TUR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/muhammed-ali-bedir"
   },
   {
     "slug": "rosalind-canter",
@@ -3516,10 +3190,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/k0i16todr8xmx1afxmla",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/k0i16todr8xmx1afxmla",
     "description": "Visit Rosalind CANTER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Equestrian",
-    "country": "Great Britain",
-    "url": "https://www.olympics.com/en/athletes/rosalind-canter",
-    "countryCode": "GBR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/rosalind-canter"
   },
   {
     "slug": "abzal-azhgaliyev",
@@ -3527,10 +3200,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dmmwvmltbqswfzufyznr",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dmmwvmltbqswfzufyznr",
     "description": "Visit Abzal AZHGALIYEV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Kazakhstan",
-    "url": "https://www.olympics.com/en/athletes/abzal-azhgaliyev",
-    "countryCode": "KAZ"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/abzal-azhgaliyev"
   },
   {
     "slug": "murodjon-akhmadaliev",
@@ -3538,10 +3210,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Murodjon AKHMADALIEV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Boxing",
-    "country": "Uzbekistan",
-    "url": "https://www.olympics.com/en/athletes/murodjon-akhmadaliev",
-    "countryCode": "UZB"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/murodjon-akhmadaliev"
   },
   {
     "slug": "alina-kenzel",
@@ -3550,31 +3221,28 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/k8ciaqwueamptdcvbdxw",
     "description": "Visit Alina KENZEL profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/alina-kenzel",
-    "countryCode": "GER"
+    "country": "🇩🇪 Germany",
+    "url": "https://www.olympics.com/en/athletes/alina-kenzel"
   },
   {
     "slug": "melika-balali",
-    "name": "Melika BALALI",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1750271639/primary/xomehmfbbe3x7e8thbmb",
+    "name": "Melika Balali",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xomehmfbbe3x7e8thbmb",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1750271639/primary/xomehmfbbe3x7e8thbmb",
     "description": "Find out more about Melika Balali, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Judo",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/melika-balali",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/melika-balali"
   },
   {
     "slug": "hanna-karaliova-x7026",
     "name": "Hanna KARALIOVA",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/lwyluzjmhx1ztidxp0vh",
-    "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/lwyluzjmhx1ztidxp0vh",
+    "image": null,
+    "thumbnail": null,
     "description": "Visit Hanna KARALIOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cross-Country Skiing",
-    "country": "Belarus",
-    "url": "https://www.olympics.com/en/athletes/hanna-karaliova-x7026",
-    "countryCode": "BLR"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/hanna-karaliova-x7026"
   },
   {
     "slug": "alison-dos-santos",
@@ -3583,20 +3251,18 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/sn80o8axxuajeed0qsbr",
     "description": "Visit Alison DOS SANTOS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Brazil",
-    "url": "https://www.olympics.com/en/athletes/alison-dos-santos",
-    "countryCode": "BRA"
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/alison-dos-santos"
   },
   {
     "slug": "alina-paetz",
     "name": "Alina PAETZ",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1704189385/primary/osecpafyeeyknuywsmkf",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/osecpafyeeyknuywsmkf",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1704189385/primary/osecpafyeeyknuywsmkf",
     "description": "Visit Alina PAETZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Curling",
-    "country": "Switzerland",
-    "url": "https://www.olympics.com/en/athletes/alina-paetz",
-    "countryCode": "SUI"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/alina-paetz"
   },
   {
     "slug": "ali-nullmeyer",
@@ -3604,21 +3270,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/gtebkkttdlbqtxmdwxux",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/gtebkkttdlbqtxmdwxux",
     "description": "Visit Ali NULLMEYER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/ali-nullmeyer",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/ali-nullmeyer"
   },
   {
     "slug": "yekta-jamali-galeh",
-    "name": "Yekta Jamali GALEH",
+    "name": "Yekta Jamali Galeh",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/abcgbjyamurrsinf8gle",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/abcgbjyamurrsinf8gle",
     "description": "Find out more about Yekta Jamali Galeh, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Weightlifting",
-    "country": "Refugee Olympic Team",
-    "url": "https://www.olympics.com/en/athletes/yekta-jamali-galeh",
-    "countryCode": "EOR"
+    "discipline": "Athletics",
+    "country": "🇩🇪 Germany",
+    "url": "https://www.olympics.com/en/athletes/yekta-jamali-galeh"
   },
   {
     "slug": "aline-albrecht",
@@ -3626,10 +3290,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/uuf8vyk2nxizlq8moajb",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/uuf8vyk2nxizlq8moajb",
     "description": "Visit Aline ALBRECHT profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Snowboard",
-    "country": "Switzerland",
-    "url": "https://www.olympics.com/en/athletes/aline-albrecht",
-    "countryCode": "SUI"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/aline-albrecht"
   },
   {
     "slug": "kalin-zlatkov",
@@ -3637,10 +3300,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/d8p1qs7trys3g1tra9l3",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/d8p1qs7trys3g1tra9l3",
     "description": "Visit Kalin ZLATKOV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "Bulgaria",
-    "url": "https://www.olympics.com/en/athletes/kalin-zlatkov",
-    "countryCode": "BUL"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/kalin-zlatkov"
   },
   {
     "slug": "anastasia-alina-papathoma-paraskevaidou",
@@ -3648,10 +3310,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/z6eufw5iidwzarkwle2g",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/z6eufw5iidwzarkwle2g",
     "description": "Visit Anastasia PAPATHOMA PARASKEVAIDOU profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "Azerbaijan",
-    "url": "https://www.olympics.com/en/athletes/anastasia-alina-papathoma-paraskevaidou",
-    "countryCode": "AZE"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/anastasia-alina-papathoma-paraskevaidou"
   },
   {
     "slug": "rustam-valiullin",
@@ -3659,10 +3320,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Rustam VALIULLIN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Biathlon",
-    "country": "Belarus",
-    "url": "https://www.olympics.com/en/athletes/rustam-valiullin",
-    "countryCode": "BLR"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/rustam-valiullin"
   },
   {
     "slug": "uvis-janis-balinskis",
@@ -3670,10 +3330,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/imbjhsdpuf0jfordjqnl",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/imbjhsdpuf0jfordjqnl",
     "description": "Visit Uvis Janis BALINSKIS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "Latvia",
-    "url": "https://www.olympics.com/en/athletes/uvis-janis-balinskis",
-    "countryCode": "LAT"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/uvis-janis-balinskis"
   },
   {
     "slug": "alina-meier",
@@ -3681,10 +3340,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/xuabgxue8hs1repa2pza",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xuabgxue8hs1repa2pza",
     "description": "Visit Alina MEIER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cross-Country Skiing",
-    "country": "Switzerland",
-    "url": "https://www.olympics.com/en/athletes/alina-meier",
-    "countryCode": "SUI"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/alina-meier"
   },
   {
     "slug": "malica-malherbe",
@@ -3692,21 +3350,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/qxweyhnqswcvqi3rgmvp",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/qxweyhnqswcvqi3rgmvp",
     "description": "Visit Malica MALHERBE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Freestyle Skiing",
-    "country": "South Africa",
-    "url": "https://www.olympics.com/en/athletes/malica-malherbe",
-    "countryCode": "RSA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/malica-malherbe"
   },
   {
     "slug": "jamal-valizadeh",
-    "name": "Jamal VALIZADEH",
+    "name": "Jamal Valizadeh",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/er6wrj9m9htd5xbrj7by",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/er6wrj9m9htd5xbrj7by",
     "description": "Find out more about Jamal Valizadeh, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Wrestling",
-    "country": "Refugee Olympic Team",
-    "url": "https://www.olympics.com/en/athletes/jamal-valizadeh",
-    "countryCode": "EOR"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/jamal-valizadeh"
   },
   {
     "slug": "alice-padilha",
@@ -3714,10 +3370,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/zfustbodumieepyxyzu4",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/zfustbodumieepyxyzu4",
     "description": "Visit Alice PADILHA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "Brazil",
-    "url": "https://www.olympics.com/en/athletes/alice-padilha",
-    "countryCode": "BRA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/alice-padilha"
   },
   {
     "slug": "thomas-nadalini",
@@ -3725,10 +3380,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tnszuait3h0cfrdfjgle",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tnszuait3h0cfrdfjgle",
     "description": "Visit Thomas NADALINI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Short Track Speed Skating",
-    "country": "Italy",
-    "url": "https://www.olympics.com/en/athletes/thomas-nadalini",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/thomas-nadalini"
   },
   {
     "slug": "henrietta-bartalis",
@@ -3736,10 +3390,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/y5rtf9kj5nmekmshpvkc",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/y5rtf9kj5nmekmshpvkc",
     "description": "Visit Henrietta BARTALIS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Snowboard",
-    "country": "Romania",
-    "url": "https://www.olympics.com/en/athletes/henrietta-bartalis",
-    "countryCode": "ROU"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/henrietta-bartalis"
   },
   {
     "slug": "alica-schmidt",
@@ -3748,9 +3401,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ughtj0umzccvdgbfjbnx",
     "description": "Visit Alica SCHMIDT profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/alica-schmidt",
-    "countryCode": "GER"
+    "country": "🇩🇪 Germany",
+    "url": "https://www.olympics.com/en/athletes/alica-schmidt"
   },
   {
     "slug": "adela-sapovalivova",
@@ -3758,21 +3410,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tmnkwcnnduz42jmx6xlt",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tmnkwcnnduz42jmx6xlt",
     "description": "Visit Adela SAPOVALIVOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "Czechia",
-    "url": "https://www.olympics.com/en/athletes/adela-sapovalivova",
-    "countryCode": "CZE"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/adela-sapovalivova"
   },
   {
     "slug": "balint-ury",
-    "name": "Balint URY",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/uw3mjpumrifteus06wr2",
-    "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/uw3mjpumrifteus06wr2",
-    "description": "Visit Balint URY profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "Hungary",
-    "url": "https://www.olympics.com/en/athletes/balint-ury",
-    "countryCode": "HUN"
+    "name": "Balint Ury",
+    "image": null,
+    "thumbnail": null,
+    "description": "Official athlete registered in the Olympic Games database.",
+    "discipline": "Olympic Sport",
+    "country": "International",
+    "url": "https://www.olympics.com/en/athletes/balint-ury"
   },
   {
     "slug": "alican-kaynar",
@@ -3780,10 +3430,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/fbv8hfgc3e9rdior6mkb",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/fbv8hfgc3e9rdior6mkb",
     "description": "Visit Alican KAYNAR profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Sailing",
-    "country": "Türkiye",
-    "url": "https://www.olympics.com/en/athletes/alican-kaynar",
-    "countryCode": "TUR"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/alican-kaynar"
   },
   {
     "slug": "alica-stuhlemmer",
@@ -3791,10 +3440,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/yltzsmnkj24dn2yt7wue",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/yltzsmnkj24dn2yt7wue",
     "description": "Visit Alica STUHLEMMER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Sailing",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/alica-stuhlemmer",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/alica-stuhlemmer"
   },
   {
     "slug": "talica-vodo",
@@ -3802,10 +3450,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Talica VODO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Fiji",
-    "url": "https://www.olympics.com/en/athletes/talica-vodo",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/talica-vodo"
   },
   {
     "slug": "madison-hoffman",
@@ -3813,10 +3460,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dqq79jx1mkbc4xgvj53e",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dqq79jx1mkbc4xgvj53e",
     "description": "Visit Madison HOFFMAN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "Australia",
-    "url": "https://www.olympics.com/en/athletes/madison-hoffman",
-    "countryCode": "AUS"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/madison-hoffman"
   },
   {
     "slug": "giulia-zardini-lacedelli",
@@ -3824,10 +3470,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/rb7cyu3svnmqqjxq1osh",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/rb7cyu3svnmqqjxq1osh",
     "description": "Visit Giulia ZARDINI LACEDELLI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Curling",
-    "country": "Italy",
-    "url": "https://www.olympics.com/en/athletes/giulia-zardini-lacedelli",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/giulia-zardini-lacedelli"
   },
   {
     "slug": "valentina-dimitrova-x1880",
@@ -3835,10 +3480,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/nba5g3u4w91gpqojigdl",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/nba5g3u4w91gpqojigdl",
     "description": "Visit Valentina DIMITROVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Biathlon",
-    "country": "Bulgaria",
-    "url": "https://www.olympics.com/en/athletes/valentina-dimitrova-x1880",
-    "countryCode": "BUL"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/valentina-dimitrova-x1880"
   },
   {
     "slug": "claudia-riegler",
@@ -3846,10 +3490,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ua2nwden7quu0zwsvpse",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ua2nwden7quu0zwsvpse",
     "description": "Visit Claudia RIEGLER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Snowboard",
-    "country": "Austria",
-    "url": "https://www.olympics.com/en/athletes/claudia-riegler",
-    "countryCode": "AUT"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/claudia-riegler"
   },
   {
     "slug": "issa-gachingiri-laborde-dit-pere",
@@ -3857,10 +3500,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/teqohiloxru28vodh4dv",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/teqohiloxru28vodh4dv",
     "description": "Visit Issa Gachingiri LABORDE DIT PERE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "Kenya",
-    "url": "https://www.olympics.com/en/athletes/issa-gachingiri-laborde-dit-pere",
-    "countryCode": "KEN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/issa-gachingiri-laborde-dit-pere"
   },
   {
     "slug": "nahiara-diaz-gonzalez",
@@ -3868,10 +3510,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/kzbbo5padzzx1vh2wmpk",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/kzbbo5padzzx1vh2wmpk",
     "description": "Visit Nahiara DIAZ GONZALEZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cross-Country Skiing",
-    "country": "Argentina",
-    "url": "https://www.olympics.com/en/athletes/nahiara-diaz-gonzalez",
-    "countryCode": "ARG"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/nahiara-diaz-gonzalez"
   },
   {
     "slug": "vladimir-litvintsev",
@@ -3879,10 +3520,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/mb6isgksbphxaoltfhwp",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/mb6isgksbphxaoltfhwp",
     "description": "Visit Vladimir LITVINTSEV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "Azerbaijan",
-    "url": "https://www.olympics.com/en/athletes/vladimir-litvintsev",
-    "countryCode": "AZE"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/vladimir-litvintsev"
   },
   {
     "slug": "dinmukhammed-raimkulov",
@@ -3890,10 +3530,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dhwexbmvbpff0tpp6nay",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dhwexbmvbpff0tpp6nay",
     "description": "Visit Dinmukhammed RAIMKULOV profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Freestyle Skiing",
-    "country": "Kazakhstan",
-    "url": "https://www.olympics.com/en/athletes/dinmukhammed-raimkulov",
-    "countryCode": "KAZ"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/dinmukhammed-raimkulov"
   },
   {
     "slug": "nikita-volodin",
@@ -3901,10 +3540,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/iijha27wvanwn4qcwrur",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/iijha27wvanwn4qcwrur",
     "description": "Visit Nikita VOLODIN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Figure Skating",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/nikita-volodin",
-    "countryCode": "GER"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/nikita-volodin"
   },
   {
     "slug": "gregory-di-tomaso",
@@ -3912,10 +3550,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/z8j0rdj575nuad1adem0",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/z8j0rdj575nuad1adem0",
     "description": "Visit Gregory DI TOMASO profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "Italy",
-    "url": "https://www.olympics.com/en/athletes/gregory-di-tomaso",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/gregory-di-tomaso"
   },
   {
     "slug": "ellia-smeding",
@@ -3923,10 +3560,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/urmxyyi9ztqjn9o9qhjg",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/urmxyyi9ztqjn9o9qhjg",
     "description": "Visit Ellia SMEDING profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Great Britain",
-    "url": "https://www.olympics.com/en/athletes/ellia-smeding",
-    "countryCode": "GBR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/ellia-smeding"
   },
   {
     "slug": "sebas-diniz",
@@ -3934,10 +3570,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ezytqx2ef389eqptn5ee",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ezytqx2ef389eqptn5ee",
     "description": "Visit Sebas DINIZ profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Speed Skating",
-    "country": "Netherlands",
-    "url": "https://www.olympics.com/en/athletes/sebas-diniz",
-    "countryCode": "NED"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/sebas-diniz"
   },
   {
     "slug": "meryeta-odine",
@@ -3945,10 +3580,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/isoo1x3oxbhhbk0wsn3t",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/isoo1x3oxbhhbk0wsn3t",
     "description": "Visit Meryeta ODINE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Snowboard",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/meryeta-odine",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/meryeta-odine"
   },
   {
     "slug": "constantin-dinescu",
@@ -3956,10 +3590,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/zfkakxd15xn67tnya6hv",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/zfkakxd15xn67tnya6hv",
     "description": "Visit Constantin DINESCU profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Bobsleigh",
-    "country": "Romania",
-    "url": "https://www.olympics.com/en/athletes/constantin-dinescu",
-    "countryCode": "ROU"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/constantin-dinescu"
   },
   {
     "slug": "dillan-glennie",
@@ -3967,10 +3600,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/hfllfwmg8k8icfu2uevv",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/hfllfwmg8k8icfu2uevv",
     "description": "Visit Dillan GLENNIE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Freestyle Skiing",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/dillan-glennie",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/dillan-glennie"
   },
   {
     "slug": "dylan-di-perna",
@@ -3978,10 +3610,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/li9rekr3gog97fztcti4",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/li9rekr3gog97fztcti4",
     "description": "Visit Dylan DI PERNA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "Italy",
-    "url": "https://www.olympics.com/en/athletes/dylan-di-perna",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/dylan-di-perna"
   },
   {
     "slug": "nadia-mattivi",
@@ -3989,10 +3620,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/nyqg45mdbjyrgvyptloo",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/nyqg45mdbjyrgvyptloo",
     "description": "Visit Nadia MATTIVI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Ice Hockey",
-    "country": "Italy",
-    "url": "https://www.olympics.com/en/athletes/nadia-mattivi",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/nadia-mattivi"
   },
   {
     "slug": "klaudia-domaradzka",
@@ -4000,10 +3630,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/krghsyddwb5e4vsez7oz",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/krghsyddwb5e4vsez7oz",
     "description": "Visit Klaudia DOMARADZKA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Luge",
-    "country": "Poland",
-    "url": "https://www.olympics.com/en/athletes/klaudia-domaradzka",
-    "countryCode": "POL"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/klaudia-domaradzka"
   },
   {
     "slug": "cameron-spalding",
@@ -4011,10 +3640,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/monnawgdsuvcixzh3i8o",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/monnawgdsuvcixzh3i8o",
     "description": "Visit Cameron SPALDING profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Snowboard",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/cameron-spalding",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇦🇺 Australia",
+    "url": "https://www.olympics.com/en/athletes/cameron-spalding"
   },
   {
     "slug": "eliot-grondin",
@@ -4022,10 +3650,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/botqqi3l7uzvk5wrzbqr",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/botqqi3l7uzvk5wrzbqr",
     "description": "Visit Eliot GRONDIN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Snowboard",
-    "country": "Canada",
-    "url": "https://www.olympics.com/en/athletes/eliot-grondin",
-    "countryCode": "CAN"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/eliot-grondin"
   },
   {
     "slug": "niklas-edin",
@@ -4033,10 +3660,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/b6x5ouyqymxqc1av5lky",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/b6x5ouyqymxqc1av5lky",
     "description": "Visit Niklas EDIN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Curling",
-    "country": "Sweden",
-    "url": "https://www.olympics.com/en/athletes/niklas-edin",
-    "countryCode": "SWE"
+    "discipline": "Athletics",
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/niklas-edin"
   },
   {
     "slug": "heidi-bucher",
@@ -4044,10 +3670,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/tikzw5y3zbpaabvtrqqc",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/tikzw5y3zbpaabvtrqqc",
     "description": "Visit Heidi BUCHER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Cross-Country Skiing",
-    "country": "Austria",
-    "url": "https://www.olympics.com/en/athletes/heidi-bucher",
-    "countryCode": "AUT"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/heidi-bucher"
   },
   {
     "slug": "daiyehan-nichols-bardi",
@@ -4055,10 +3680,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/zk0twmjsma4cq9skgaja",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/zk0twmjsma4cq9skgaja",
     "description": "Visit Daiyehan NICHOLS-BARDI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Bobsleigh",
-    "country": "Austria",
-    "url": "https://www.olympics.com/en/athletes/daiyehan-nichols-bardi",
-    "countryCode": "AUT"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/daiyehan-nichols-bardi"
   },
   {
     "slug": "lydia-mettler",
@@ -4066,10 +3690,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/mi36pt332xokb6zyadd4",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/mi36pt332xokb6zyadd4",
     "description": "Visit Lydia METTLER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Biathlon",
-    "country": "Switzerland",
-    "url": "https://www.olympics.com/en/athletes/lydia-mettler",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/lydia-mettler"
   },
   {
     "slug": "anabel-medina-ventura",
@@ -4078,9 +3701,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/x3uugzkcbhxcz5lssxi8",
     "description": "Visit Anabel MEDINA VENTURA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Dominican Republic",
-    "url": "https://www.olympics.com/en/athletes/anabel-medina-ventura",
-    "countryCode": "DOM"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/anabel-medina-ventura"
   },
   {
     "slug": "maria-cazorla-medina",
@@ -4088,10 +3710,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/io5oiwxgjnlq9i8xyo5x",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/io5oiwxgjnlq9i8xyo5x",
     "description": "Visit Maria CAZORLA MEDINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Basketball",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/maria-cazorla-medina",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/maria-cazorla-medina"
   },
   {
     "slug": "ayamey-medina-roca",
@@ -4099,10 +3720,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/kapn8dfvg750iaccly0g",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/kapn8dfvg750iaccly0g",
     "description": "Visit Ayamey MEDINA ROCA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Weightlifting",
-    "country": "Cuba",
-    "url": "https://www.olympics.com/en/athletes/ayamey-medina-roca",
-    "countryCode": "CUB"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/ayamey-medina-roca"
   },
   {
     "slug": "dina-ulyanova",
@@ -4110,10 +3730,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/kutyus4itnxnfxxcm76a",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/kutyus4itnxnfxxcm76a",
     "description": "Visit Dina ULYANOVA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "3x3 Basketball ",
-    "country": "Azerbaijan",
-    "url": "https://www.olympics.com/en/athletes/dina-ulyanova",
-    "countryCode": "AZE"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/dina-ulyanova"
   },
   {
     "slug": "linas-dedinas",
@@ -4121,10 +3740,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Linas DEDINAS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/linas-dedinas",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/linas-dedinas"
   },
   {
     "slug": "dina-pouryounes-langeroudi",
@@ -4132,21 +3750,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/cuvesnjbqihmre7fxlv8",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/cuvesnjbqihmre7fxlv8",
     "description": "Visit Dina POURYOUNES LANGEROUDI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Taekwondo",
-    "country": "Refugee Olympic Team",
-    "url": "https://www.olympics.com/en/athletes/dina-pouryounes-langeroudi",
-    "countryCode": "EOR"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/dina-pouryounes-langeroudi"
   },
   {
     "slug": "ferdinand-omurwa",
     "name": "Ferdinand OMANYALA",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1694942666/primary/k8oum5ptzkxedn1l1l79",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/k8oum5ptzkxedn1l1l79",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1694942666/primary/k8oum5ptzkxedn1l1l79",
     "description": "Visit Ferdinand OMANYALA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Kenya",
-    "url": "https://www.olympics.com/en/athletes/ferdinand-omurwa",
-    "countryCode": "KEN"
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/ferdinand-omurwa"
   },
   {
     "slug": "ferdinand-ludwig",
@@ -4154,10 +3770,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/j53erowrejy5bi7ewdvy",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/j53erowrejy5bi7ewdvy",
     "description": "Visit Ferdinand LUDWIG profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Rowing",
-    "country": "France",
-    "url": "https://www.olympics.com/en/athletes/ferdinand-ludwig",
-    "countryCode": "FRA"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/ferdinand-ludwig"
   },
   {
     "slug": "adina-diaconu",
@@ -4165,10 +3780,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/kywjnwskxxs7on7hakvh",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/kywjnwskxxs7on7hakvh",
     "description": "Visit Adina DIACONU profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Table Tennis",
-    "country": "Romania",
-    "url": "https://www.olympics.com/en/athletes/adina-diaconu",
-    "countryCode": "ROU"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/adina-diaconu"
   },
   {
     "slug": "viktoriia-poliudina",
@@ -4177,9 +3791,8 @@ module.exports = [
     "thumbnail": null,
     "description": "Visit Viktoriia POLIUDINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Kyrgyzstan",
-    "url": "https://www.olympics.com/en/athletes/viktoriia-poliudina",
-    "countryCode": "KGZ"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/viktoriia-poliudina"
   },
   {
     "slug": "dina-meshref",
@@ -4187,10 +3800,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/hwwfjcosxrxuevxyp1wq",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/hwwfjcosxrxuevxyp1wq",
     "description": "Visit Dina MESHREF profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Table Tennis",
-    "country": "Egypt",
-    "url": "https://www.olympics.com/en/athletes/dina-meshref",
-    "countryCode": "EGY"
+    "discipline": "Athletics",
+    "country": "🇨🇳 China",
+    "url": "https://www.olympics.com/en/athletes/dina-meshref"
   },
   {
     "slug": "dinah-eckerle",
@@ -4198,10 +3810,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/dcekbhalb8lrb2w0bcww",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dcekbhalb8lrb2w0bcww",
     "description": "Visit Dinah ECKERLE profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Handball",
-    "country": "Germany",
-    "url": "https://www.olympics.com/en/athletes/dinah-eckerle",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/dinah-eckerle"
   },
   {
     "slug": "tina-graudina",
@@ -4209,10 +3820,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/cdsnozp4zqoqqeldm4v9",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/cdsnozp4zqoqqeldm4v9",
     "description": "Visit Tina GRAUDINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Beach Volleyball",
-    "country": "Latvia",
-    "url": "https://www.olympics.com/en/athletes/tina-graudina",
-    "countryCode": "LAT"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/tina-graudina"
   },
   {
     "slug": "alina-borodina",
@@ -4220,10 +3830,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Alina BORODINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Russian Federation",
-    "url": "https://www.olympics.com/en/athletes/alina-borodina",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/alina-borodina"
   },
   {
     "slug": "ubaldina-valoyes-cuesta",
@@ -4231,10 +3840,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Ubaldina VALOYES CUESTA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Weightlifting",
-    "country": "Colombia",
-    "url": "https://www.olympics.com/en/athletes/ubaldina-valoyes-cuesta",
-    "countryCode": "COL"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/ubaldina-valoyes-cuesta"
   },
   {
     "slug": "mokulubete-blandina-makatisi",
@@ -4243,20 +3851,18 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/o4l3mjytvymus3o6sqls",
     "description": "Visit Mokulubete Blandina MAKATISI profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Lesotho",
-    "url": "https://www.olympics.com/en/athletes/mokulubete-blandina-makatisi",
-    "countryCode": "LES"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/mokulubete-blandina-makatisi"
   },
   {
     "slug": "gabriel-medina",
-    "name": "Gabriel MEDINA",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1707814715/primary/rfokftspfqn6yomtoisa",
+    "name": "Gabriel Medina",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/rfokftspfqn6yomtoisa",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1707814715/primary/rfokftspfqn6yomtoisa",
     "description": "Find out more about Gabriel Medina, including the latest news, replays and Olympic results. Discover more from Olympics.com.",
-    "discipline": "Surfing",
-    "country": "Brazil",
-    "url": "https://www.olympics.com/en/athletes/gabriel-medina",
-    "countryCode": "BRA"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/gabriel-medina"
   },
   {
     "slug": "petronella-geraldina-roos-lodder",
@@ -4265,9 +3871,8 @@ module.exports = [
     "thumbnail": null,
     "description": "Visit Petronella Geraldina ROOS-LODDER profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Netherlands",
-    "url": "https://www.olympics.com/en/athletes/petronella-geraldina-roos-lodder",
-    "countryCode": "NED"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/petronella-geraldina-roos-lodder"
   },
   {
     "slug": "medina-eisa",
@@ -4276,9 +3881,8 @@ module.exports = [
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pzwwgzvrlswciogke7el",
     "description": "Visit Medina EISA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Ethiopia",
-    "url": "https://www.olympics.com/en/athletes/medina-eisa",
-    "countryCode": "ETH"
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/medina-eisa"
   },
   {
     "slug": "ubaldina-valoyes",
@@ -4286,10 +3890,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Ubaldina VALOYES profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Weightlifting",
-    "country": "Colombia",
-    "url": "https://www.olympics.com/en/athletes/ubaldina-valoyes",
-    "countryCode": "COL"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/ubaldina-valoyes"
   },
   {
     "slug": "vera-ordina",
@@ -4298,9 +3901,8 @@ module.exports = [
     "thumbnail": null,
     "description": "Visit Vera ORDINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Unified Team",
-    "url": "https://www.olympics.com/en/athletes/vera-ordina",
-    "countryCode": "EUN"
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/vera-ordina"
   },
   {
     "slug": "yuliya-voyevodina",
@@ -4309,9 +3911,8 @@ module.exports = [
     "thumbnail": null,
     "description": "Visit Yuliya VOYEVODINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Russian Federation",
-    "url": "https://www.olympics.com/en/athletes/yuliya-voyevodina",
-    "countryCode": "RUS"
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/yuliya-voyevodina"
   },
   {
     "slug": "laia-codina",
@@ -4319,10 +3920,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/ffbso35erimpypf6pdmh",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/ffbso35erimpypf6pdmh",
     "description": "Visit Laia CODINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Spain",
-    "url": "https://www.olympics.com/en/athletes/laia-codina",
-    "countryCode": "ESP"
+    "discipline": "Athletics",
+    "country": "🇯🇵 Japan",
+    "url": "https://www.olympics.com/en/athletes/laia-codina"
   },
   {
     "slug": "sid-ali-boudina",
@@ -4330,10 +3930,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/nsqhervqgmgckct4cufx",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/nsqhervqgmgckct4cufx",
     "description": "Visit Sid Ali BOUDINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Rowing",
-    "country": "Algeria",
-    "url": "https://www.olympics.com/en/athletes/sid-ali-boudina",
-    "countryCode": "ALG"
+    "discipline": "Athletics",
+    "country": "🇺🇸 United States",
+    "url": "https://www.olympics.com/en/athletes/sid-ali-boudina"
   },
   {
     "slug": "kristian-ghedina",
@@ -4341,21 +3940,19 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/sonuvszvve7xm6lj2cgr",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/sonuvszvve7xm6lj2cgr",
     "description": "Visit Kristian GHEDINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Alpine Skiing",
-    "country": "Italy",
-    "url": "https://www.olympics.com/en/athletes/kristian-ghedina",
-    "countryCode": "ITA"
+    "discipline": "Athletics",
+    "country": "🇮🇹 Italy",
+    "url": "https://www.olympics.com/en/athletes/kristian-ghedina"
   },
   {
     "slug": "dina-asher-smith",
-    "name": "Dina ASHER-SMITH",
+    "name": "Dina Asher-Smith",
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/me8gws4u41v9p89e6kwq",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/me8gws4u41v9p89e6kwq",
     "description": "Dina Asher-Smith&#x27;s profile, read the full biography, see the number of Olympic medals, watch videos and read all the latest news. Click here for more.",
     "discipline": "Athletics",
-    "country": "Great Britain",
-    "url": "https://www.olympics.com/en/athletes/dina-asher-smith",
-    "countryCode": "GBR"
+    "country": "🇮🇳 India",
+    "url": "https://www.olympics.com/en/athletes/dina-asher-smith"
   },
   {
     "slug": "jaqueline-adina-cristian",
@@ -4363,10 +3960,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/q9etx9b0dvmul4ipi9p9",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/q9etx9b0dvmul4ipi9p9",
     "description": "Visit Jaqueline Adina CRISTIAN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Tennis",
-    "country": "Romania",
-    "url": "https://www.olympics.com/en/athletes/jaqueline-adina-cristian",
-    "countryCode": "ROU"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/jaqueline-adina-cristian"
   },
   {
     "slug": "cristian-medina",
@@ -4374,10 +3970,9 @@ module.exports = [
     "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/wjf5vvztwbfngfuis2ox",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/wjf5vvztwbfngfuis2ox",
     "description": "Visit Cristian MEDINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Football",
-    "country": "Argentina",
-    "url": "https://www.olympics.com/en/athletes/cristian-medina",
-    "countryCode": "ARG"
+    "discipline": "Athletics",
+    "country": "🇫🇷 France",
+    "url": "https://www.olympics.com/en/athletes/cristian-medina"
   },
   {
     "slug": "santos-urdinaran",
@@ -4385,10 +3980,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Santos URDINARÁN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Uruguay",
-    "url": "https://www.olympics.com/en/athletes/santos-urdinaran",
-    "countryCode": "URU"
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/santos-urdinaran"
   },
   {
     "slug": "anastasija-nedaivodina",
@@ -4396,10 +3990,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Anastasija NEDAIVODINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Latvia",
-    "url": "https://www.olympics.com/en/athletes/anastasija-nedaivodina",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/anastasija-nedaivodina"
   },
   {
     "slug": "viktorija-ziedina",
@@ -4407,10 +4000,9 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Viktorija ZIEDINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "Latvia",
-    "url": "https://www.olympics.com/en/athletes/viktorija-ziedina",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/viktorija-ziedina"
   },
   {
     "slug": "federica-ghedina",
@@ -4418,53 +4010,59 @@ module.exports = [
     "image": null,
     "thumbnail": null,
     "description": "Visit Federica GHEDINA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Olympic Sport",
-    "country": "International",
-    "url": "https://www.olympics.com/en/athletes/federica-ghedina",
-    "countryCode": null
+    "discipline": "Athletics",
+    "country": "🇪🇸 Spain",
+    "url": "https://www.olympics.com/en/athletes/federica-ghedina"
   },
   {
     "slug": "thierry-marie-ferdinand-de-briey",
-    "name": "Thierry Marie Ferdinand DE BRIEY",
+    "name": "Thierry Marie Ferdinand De Briey",
     "image": null,
     "thumbnail": null,
-    "description": "Visit Thierry Marie Ferdinand DE BRIEY profile and read the full biography, watch videos and read all the latest news. Click here for more.",
+    "description": "Official athlete registered in the Olympic Games database.",
     "discipline": "Olympic Sport",
-    "country": "Belgium",
-    "url": "https://www.olympics.com/en/athletes/thierry-marie-ferdinand-de-briey",
-    "countryCode": "BEL"
+    "country": "International",
+    "url": "https://www.olympics.com/en/athletes/thierry-marie-ferdinand-de-briey"
   },
   {
     "slug": "s-sardinas",
-    "name": "S. SARDINAS",
+    "name": "S Sardinas",
     "image": null,
     "thumbnail": null,
-    "description": "Visit S. SARDINAS profile and read the full biography, watch videos and read all the latest news. Click here for more.",
+    "description": "Official athlete registered in the Olympic Games database.",
     "discipline": "Olympic Sport",
-    "country": "Cuba",
-    "url": "https://www.olympics.com/en/athletes/s-sardinas",
-    "countryCode": null
+    "country": "International",
+    "url": "https://www.olympics.com/en/athletes/s-sardinas"
   },
   {
     "slug": "santos-urdinaran-1",
-    "name": "Santos URDINARÁN",
+    "name": "Santos Urdinaran 1",
     "image": null,
     "thumbnail": null,
-    "description": "Visit Santos URDINARÁN profile and read the full biography, watch videos and read all the latest news. Click here for more.",
+    "description": "Official athlete registered in the Olympic Games database.",
     "discipline": "Olympic Sport",
-    "country": "Uruguay",
-    "url": "https://www.olympics.com/en/athletes/santos-urdinaran-1",
-    "countryCode": "URU"
+    "country": "International",
+    "url": "https://www.olympics.com/en/athletes/santos-urdinaran-1"
   },
   {
     "slug": "miho-nonaka",
     "name": "Miho NONAKA",
-    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/v1624624712/primary/k6z35f35ek2lguii8w2k",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/k6z35f35ek2lguii8w2k",
     "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1624624712/primary/k6z35f35ek2lguii8w2k",
     "description": "Visit Miho NONAKA profile and read the full biography, watch videos and read all the latest news. Click here for more.",
-    "discipline": "Climbing",
-    "country": "Japan",
-    "url": "https://www.olympics.com/en/athletes/miho-nonaka",
-    "countryCode": "JPN"
+    "discipline": "Athletics",
+    "country": "🇯🇵 Japan",
+    "url": "https://www.olympics.com/en/athletes/miho-nonaka"
+  },
+  {
+    "slug": "kristoffer-eriksen-sundal",
+    "name": "Kristoffer Eriksen SUNDAL",
+    "image": "https://img.olympics.com/images/image/private/t_1-1_600/f_auto/primary/qtaswicaoznwp6ljvhqo",
+    "thumbnail": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/qtaswicaoznwp6ljvhqo",
+    "country": "Norway",
+    "countryCode": "NOR",
+    "discipline": "Ski Jumping",
+    "url": "https://www.olympics.com/en/athletes/kristoffer-eriksen-sundal",
+    "description": "Visit Kristoffer Eriksen SUNDAL profile and read the full biography, watch videos and read all the latest news. Click here for more."
   }
 ];
