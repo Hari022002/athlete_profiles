@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Olympics Athlete Gallery - 40,000+ Champions</title>
+  <link rel="icon" type="image/png" href="logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Cinzel:wght@700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="light-canvas">
+
+  <!-- Top Sticky Navigation & Search Bar Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <!-- Brand Logo -->
+      <div class="header-brand">
+        <img src="logo.png" alt="Olympic Rings Logo" class="brand-logo-img" />
+        <div class="brand-titles">
+          <h1>OLYMPIC ATHLETES</h1>
+          <span class="brand-tag">40,000+ SITEMAP ARCHIVE</span>
+        </div>
+      </div>
+
+      <!-- Centered Modern Search Bar -->
+      <div class="search-container">
+        <div class="search-bar-input-wrapper">
+          <span class="search-icon">🔍</span>
+          <input 
+            type="text" 
+            id="searchInput" 
+            placeholder="Search 40,000 athletes (e.g. Simone Biles, Neeraj Chopra, Long Ma, Sinner)..." 
+            autocomplete="off"
+          />
+          <button id="clearSearchBtn" class="clear-btn hidden" title="Clear">✕</button>
+        </div>
+        <div id="searchSpinner" class="search-spinner hidden"></div>
+      </div>
+
+      <!-- Header Stats -->
+      <div class="header-right">
+        <span id="totalBadge" class="total-badge">40,000 Athletes</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Showcase Container -->
+  <main class="main-container">
+
+    <!-- Section 1: Featured Champions Showcase -->
+    <section class="section-block" id="featuredSection">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">Top Champions</h2>
+          <p class="section-subtitle">Featured Olympic gold medalists & world-record holders</p>
+        </div>
+      </div>
+
+      <!-- Horizontal Photo Carousel -->
+      <div class="featured-carousel" id="featuredCarousel">
+        <!-- Injected dynamically -->
+      </div>
+    </section>
+
+    <!-- Section 2: Complete Athlete Grid (40,000 records) -->
+    <section class="section-block" id="allAthletesSection">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title" id="gridTitle">All Athletes</h2>
+          <p class="section-subtitle" id="gridSubtitle">Browsing complete Olympic database</p>
+        </div>
+        <div class="results-stats" id="resultsStats">Showing 1 - 36 of 40,000</div>
+      </div>
+
+      <!-- Main Responsive Photo Grid -->
+      <div class="athlete-photo-grid" id="athleteGrid">
+        <!-- 40,000 athlete cards rendered here -->
+      </div>
+
+      <!-- Loading / Spinner Indicator -->
+      <div id="gridLoading" class="grid-loading hidden">
+        <div class="loading-ring"></div>
+        <span>Loading more champions...</span>
+      </div>
+
+      <!-- Load More Button -->
+      <div class="load-more-wrapper" id="loadMoreWrapper">
+        <button id="loadMoreBtn" class="load-more-btn">
+          <span>Load More Athletes</span>
+          <span class="load-icon">↓</span>
+        </button>
+      </div>
+
+      <!-- Empty State -->
+      <div id="emptyState" class="empty-state hidden">
+        <div class="empty-emoji">🏅</div>
+        <h3>No athletes found</h3>
+        <p>No records match your search query. Try searching another champion name.</p>
+        <button id="resetSearchBtn" class="reset-btn">Reset Search</button>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ==============================================
+       ATHLETE DETAILS MODAL / CLEAN PHOTO & IDENTITY SHEET
+       ============================================== -->
+  <div id="detailModal" class="modal-backdrop hidden">
+    <div class="detail-sheet">
+      <!-- Close Button -->
+      <button id="closeModalBtn" class="sheet-close-btn" aria-label="Close">✕</button>
+
+      <!-- Full Clear Athlete Image Container -->
+      <div class="sheet-full-image-container">
+        <img id="modalHeroImg" src="" alt="Athlete Portrait" />
+      </div>
+
+      <!-- Clean Minimal Identity Section -->
+      <div class="sheet-body-minimal">
+        <div class="sheet-name-and-flag">
+          <h2 id="modalAthleteName" class="sheet-athlete-name">Athlete Name</h2>
+          <span id="modalCountryFlag" class="country-flag-small"></span>
+        </div>
+        
+        <div class="sheet-sub-info">
+          <span id="modalDisciplineBadge" class="discipline-pill">Athletics</span>
+          <span id="modalCountryText" class="country-text-small">Country</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast hidden"></div>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <div class="footer-content">
+      <img src="logo.png" alt="Olympic Rings Logo" class="footer-logo-img" />
+      <p>Olympic Games Athlete Directory & Photo Showcase • Complete 40,000 athlete index from official sitemaps.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

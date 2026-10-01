@@ -1,0 +1,14 @@
+{
+  "name": "olympics-athlete-showcase",
+  "version": "1.0.0",
+  "description": "40,000+ Olympic Athletes Directory and Photo Showcase",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "fetch:album": "node fetch_album_data.js",
+    "fetch:athletes": "node olympics_athletes.js default"
+  },
+  "keywords": ["olympics", "athletes", "showcase", "gallery"],
+  "author": "",
+  "license": "MIT"
+}
